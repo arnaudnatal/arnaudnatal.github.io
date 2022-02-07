@@ -15,7 +15,7 @@ cookie_consent:
 theme: theme.css
 description: |
   My Website
-output_dir: "docs"
+output_dir: "."
 navbar:
   search: false 
   source_url: https://github.com/4rnaud
