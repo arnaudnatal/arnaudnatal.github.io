@@ -1,17 +1,6 @@
 name: "arnaudnatal"
 title: "Arnaud Natal"
 
-base_url: https://rstudio.github.io/distill
-google_analytics: "UA-77306155-2"
-
-cookie_consent:
-  style: simple
-  type: express
-  palette: light
-  lang: en
-  cookies_policy: url
-
-
 theme: theme.css
 description: |
   My Website
