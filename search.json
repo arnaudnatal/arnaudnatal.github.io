@@ -5,52 +5,51 @@
       "title": "Contact",
       "author": [],
       "contents": "\r\narnaud.natal@u-bordeaux.fr\r\nNetworks\r\nneemsis.hypotheses.org/team/arnaud-natalorcid.org/0000-0003-1301-2281researchgate.net/profile/Arnaud-Natalgithub.com/arnaudnatalpna744bse.u-bordeaux.fr/membres/arnaud-natal/\r\nAddress\r\n\r\nBSE UMR - CNRS 6060 Université de Bordeaux 16 Avenue Léon Duguit Bât. H2 (Maison de l’économie) 33608 PESSAC CEDEX, FRANCEOffice: H2-208\r\n\r\n\r\n\r\n{\"x\":{\"options\":{\"crs\":{\"crsClass\":\"L.CRS.EPSG3857\",\"code\":null,\"proj4def\":null,\"projectedBounds\":null,\"options\":{}}},\"calls\":[{\"method\":\"addTiles\",\"args\":[\"//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png\",null,null,{\"minZoom\":0,\"maxZoom\":18,\"tileSize\":256,\"subdomains\":\"abc\",\"errorTileUrl\":\"\",\"tms\":false,\"noWrap\":false,\"zoomOffset\":0,\"zoomReverse\":false,\"opacity\":1,\"zIndex\":1,\"detectRetina\":false,\"attribution\":\"&copy; <a href=\\\"http://openstreetmap.org\\\">OpenStreetMap<\\/a> contributors, <a href=\\\"http://creativecommons.org/licenses/by-sa/2.0/\\\">CC-BY-SA<\\/a>\"}]},{\"method\":\"addMarkers\",\"args\":[44.7982,-0.61563,null,null,null,{\"interactive\":true,\"draggable\":false,\"keyboard\":true,\"title\":\"\",\"alt\":\"\",\"zIndexOffset\":0,\"opacity\":1,\"riseOnHover\":false,\"riseOffset\":250},\"The birthplace of R\",null,null,null,null,{\"interactive\":false,\"permanent\":false,\"direction\":\"auto\",\"opacity\":1,\"offset\":[0,0],\"textsize\":\"10px\",\"textOnly\":false,\"className\":\"\",\"sticky\":true},null]}],\"limits\":{\"lat\":[44.7982,44.7982],\"lng\":[-0.61563,-0.61563]}},\"evals\":[],\"jsHooks\":[]}\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:47+01:00"
+      "last_modified": "2022-02-07T22:21:45+01:00"
     },
     {
       "path": "index.html",
       "title": "Arnaud Natal",
-      "description": "\n<img style=\"float: center; width:30%;\" src=\"https://neemsis.hypotheses.org/files/2020/05/Arnaud-Natal-335x500.jpg\">\n\nHi! Welcome to my page!\n\nI am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)) of the University of Bordeaux in France. <img src=\"https://www.transnationalgiving.eu/wp-content/uploads/2021/06/flag-round-250.png\" width=\"20\" height=\"20\">\n\nMy fields of specialization are development economics, household finance, and behavioural economics. Within these fields, I have three areas of interest: (i) household and individual indebtedness; (ii) cognitive skills and personality traits; and (iii) marriage market. I use both quantitative and qualitative data in my research. My work focuses mainly on India.\n",
+      "description": "\n<img style=\"float: center; width:30%;\" src=\"https://neemsis.hypotheses.org/files/2020/05/Arnaud-Natal-335x500.jpg\">\n\nHi! Welcome to my page!\n\nI am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)) of the University of Bordeaux in France. <img src=\"https://www.transnationalgiving.eu/wp-content/uploads/2021/06/flag-round-250.png\" width=\"20\" height=\"20\">\n\nMy fields of specialization are development economics, household finance, and behavioural economics. I use both quantitative and qualitative data in my research. My work focuses mainly on India.\n",
       "author": [],
       "date": "February 7, 2022",
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:48+01:00"
+      "last_modified": "2022-02-07T22:21:46+01:00"
     },
     {
       "path": "miscellaneous.html",
       "title": "Miscellaneous",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:48+01:00"
+      "last_modified": "2022-02-07T22:21:46+01:00"
     },
     {
       "path": "project.html",
       "title": "Project",
       "author": [],
       "contents": "\r\n\r\nContents\r\nObservatory of Rural Dynamics and Inequalities in South India\r\n\r\nObservatory of Rural Dynamics and Inequalities in South India\r\nCoordinated by Dr Isabelle Guérin and Dr Christophe J. Nordman, the ODRIIS Observatory is housed by the research program “Household vulnerabilities, labour and socioeconomic dynamics” in the Social Departments of the French Institute of Pondicherry. ODRIIS aims to analyses how structural changes in contemporary India are reshaping the organisation of work, social hierarchies and household livelihoods. The observatory combines different tools through a collection of projects to help understand these socio-economic changes under different lights. We have been collecting quantitative panel data on households and individuals in rural South India via the NEEMSIS Survey. We also use a variety of socio-economic methods (financial diaries, village monographs, life stories, video documentaries, etc). Beyond the regional analysis, the ODRIIS Observatory intends to contribute to the theoretical renewal of the concepts of work, networks, skills, debt and financialisation.\r\n\r\n\r\n\r\nFigure 1: Family from Mannapakam, India.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:51+01:00"
+      "last_modified": "2022-02-07T22:21:47+01:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\r\n\r\nContents\r\nIn progress\r\nPublications in peer-reviewed journals\r\nReports\r\nUnpublished works\r\n\r\nIn progress\r\nNatal, A. Psychology of Debt in Rural Tamil Nadu, India (Thesis chapter). Bordeaux, France: University of Bordeaux.\r\nNatal, A. & Nordman, C.J. Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India (Thesis chapter). Bordeaux, France: University of Bordeaux.\r\nNatal, A. & Nordman, C.J. Persistence of Over-Indebtedness in Rural India (Thesis chapter). Bordeaux, France: University of Bordeaux.\r\nPublications in peer-reviewed journals\r\nGuérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt, Survival Debt in Times of Lockdown. Economic & Political Weekly, 57(1), 41–49.\r\nReports\r\nNordman, C. J., Guérin, I., Michiels, S., Natal, A., & Venkatasubramanian, G. (2019). NEEMSIS Survey Report: A Full Statistical Picture of the Household and Individual Data (Survey report). Paris, France and Pondicherry, India: French Institute of Pondicherry (IFP) and French National Research Institute for Sustainable Development (IRD). Retrieved from https://neemsis.hypotheses.org/ressources/statistical-report\r\nUnpublished works\r\nNatal, A. (2019). Impact of marriage on the over-indebtedness of rural household in Tamil Nadu: an analysis by conditional diff-in-diff matching (M.A. dissertation). Bordeaux, France: University of Bordeaux. In french.\r\nNatal, A., Cachau, D., Couvin, A., Apedo, A., Aziadeke, A., & Atiego-Noglo, C. Y. (2018). Feasibility study of REDD+ recommendations in the Danyimé area, Togo (Survey report). Adéta, Togo: NGO FAGAD. In french.\r\nCachau, D. & Natal, A. (2018). Impact of microfinance on women’s empowerment (M.A. dissertation). Bordeaux, France: University of Bordeaux. In french.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:51+01:00"
+      "last_modified": "2022-02-07T22:21:47+01:00"
     },
     {
       "path": "teaching.html",
       "title": "Teaching",
       "author": [],
       "contents": "\r\n\r\nContents\r\nTutorials\r\n2021-22\r\n2020-21\r\n\r\nMiscellaneous\r\n\r\nTutorials\r\n2021-22\r\nEconometrics with R (75h), undergraduate level, University of Bordeaux, France.\r\nComputer programming with Python (21h), undergraduate level, University of Bordeaux, France.\r\n2020-21\r\nMicroeconomics (13.5h), undergraduate level, University of Bordeaux, France.\r\nStatistics (54h), undergraduate level, University of Bordeaux, France.\r\nMiscellaneous\r\nIT support for university lecturer and researcher during the 2020-21 school year, University of Bordeaux, France.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:52+01:00"
+      "last_modified": "2022-02-07T22:21:48+01:00"
     },
     {
       "path": "vitae.html",
       "title": "Vitae",
-      "description": "You can find `.pdf` version [here](https://www.dropbox.com/s/fqkpqleiufx10uz/CV_Natal.pdf?dl=0).  \n",
       "author": [],
       "contents": "\r\n\r\nContents\r\nEducation\r\nPh.D. in Development Economics (since 2019)\r\nM.A. in Development Economics and Applied Statistics (2019)\r\nB.A. in Economics and Management (2017)\r\n\r\nProfessional Appointments\r\nTemporary Lecturer and Research Assitant (since 2021)\r\nResearch Assistant (2019)\r\nSurvey Coordinator (2018)\r\n\r\n\r\nEducation\r\nPh.D. in Development Economics (since 2019)\r\nUniversity of Bordeaux, France.\r\n\r\nTitle: Essays on debt in South India  Supervisors: Dr Christophe J. Nordman and Prof. Éric Rougier\r\n\r\n\r\nVisiting at Newcastle University Business School, United Kingdom (2021).  Invited by Dr Smriti Sharma.\r\n\r\n\r\nVisiting at LEDa-DIAL, IRD, France (2021).  Invited by Dr Christophe J. Nordman.\r\n\r\nM.A. in Development Economics and Applied Statistics (2019)\r\nUniversity of Bordeaux, France.\r\nB.A. in Economics and Management (2017)\r\nUniversity of Bordeaux, France.\r\nProfessional Appointments\r\nTemporary Lecturer and Research Assitant (since 2021)\r\nUniversity of Bordeaux, France.\r\nResearch Assistant (2019)\r\nFrench Institute of Pondicherry, India.\r\nSurvey Coordinator (2018)\r\nNGO FAGAD, Togo.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-07T20:27:52+01:00"
+      "last_modified": "2022-02-07T22:21:48+01:00"
     }
   ],
   "collections": []

@@ -2,7 +2,6 @@
 title: "Project"
 description: |
   
-bibliography: Ref_Arnaud.bib  
 output:
   distill::distill_article:
     toc: true
@@ -25,5 +24,6 @@ knitr::include_graphics("https://raw.githubusercontent.com/4rnaud/Form_TeX/main/
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+# bibliography: Ref_Arnaud.bib  
 ```
 

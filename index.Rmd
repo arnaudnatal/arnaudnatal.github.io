@@ -9,7 +9,7 @@ description: |
   
   I am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)) of the University of Bordeaux in France. <img src="https://www.transnationalgiving.eu/wp-content/uploads/2021/06/flag-round-250.png" width="20" height="20">
 
-  My fields of specialization are development economics, household finance, and behavioural economics. Within these fields, I have three areas of interest: (i) household and individual indebtedness; (ii) cognitive skills and personality traits; and (iii) marriage market. I use both quantitative and qualitative data in my research. My work focuses mainly on India.
+  My fields of specialization are development economics, household finance, and behavioural economics. I use both quantitative and qualitative data in my research. My work focuses mainly on India.
 
 site: distill::distill_website
 ---
@@ -26,6 +26,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # I am also a Research Affiliate at French Institute of Pondicherry ([IFP](https://www.ifpindia.org/)) and at the Observatory on Rural Dynamics and Inequalities in South India ([ODRIIS](https://odriis.hypotheses.org/)).
 # I am currently hosted at the IFP, in charge of ([NEEMSIS](https://neemsis.hypotheses.org/)) ...
+
+# Within these fields, I have three areas of interest: (i) household and individual indebtedness; (ii) cognitive skills and personality traits; and (iii) marriage market.
 
 ```
 
