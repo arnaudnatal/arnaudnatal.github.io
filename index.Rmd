@@ -1,0 +1,32 @@
+---
+title: "Arnaud Natal"
+date: February 7, 2022
+description: |
+
+  <img style="float: center; width:30%;" src="https://neemsis.hypotheses.org/files/2020/05/Arnaud-Natal-335x500.jpg">
+
+  Hi! Welcome to my page!
+  
+  I am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)) of the University of Bordeaux in France. <img src="https://www.transnationalgiving.eu/wp-content/uploads/2021/06/flag-round-250.png" width="20" height="20">
+
+  I am also a Research Affiliate at French Institute of Pondicherry ([IFP](https://www.ifpindia.org/)) and at the Observatory on Rural Dynamics and Inequalities in South India ([ODRIIS](https://odriis.hypotheses.org/)).
+
+  I am currently hosted at the IFP, in charge of ([NEEMSIS](https://neemsis.hypotheses.org/)) ...
+
+  My fields of specialization are development economics, household finance, and behavioural economics. Within these fields, I have three areas of interest: (i) household and individual indebtedness; (ii) cognitive skills and personality traits; and (iii) marriage market. I use both quantitative and qualitative data in my research. My work focuses mainly on India.
+
+site: distill::distill_website
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+description: |
+  
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+# Tutorials
+
+### 2021-22
+
+- **Econometrics with R** (75h), undergraduate level, *University of Bordeaux*, France.
+- **Computer programming with Python** (21h), undergraduate level, *University of Bordeaux*, France.
+
+### 2020-21
+
+- **Microeconomics** (13.5h), undergraduate level, *University of Bordeaux*, France.
+- **Statistics** (54h), undergraduate level, *University of Bordeaux*, France.
+
+# Miscellaneous
+
+**IT support** for university lecturer and researcher during the 2020-21 school year, *University of Bordeaux*, France.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

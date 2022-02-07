@@ -1,0 +1,43 @@
+---
+title: "Contact"
+description: |
+  
+---
+
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope.svg" width="20" height="20">  <arnaud.natal@u-bordeaux.fr>
+
+# Networks
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(icons)
+```  
+
+| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/openedition.svg" width="20" height="20"> [neemsis.hypotheses.org/team/arnaud-natal](https://www.neemsis.hypotheses.org/team/arnaud-natal) 
+| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20"> [orcid.org/0000-0003-1301-2281](https://www.orcid.org/0000-0003-1301-2281)
+| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20"> [researchgate.net/profile/Arnaud-Natal](https://www.researchgate.net/profile/Arnaud-Natal)
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20"> [github.com/4rnaud](https://www.github.com/4rnaud)
+| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20"> [pna744](https://ideas.repec.org/f/pna744.html)
+| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/university.svg" width="20" height="20"> [bse.u-bordeaux.fr/membres/arnaud-natal/](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)
+
+# Address
+
+<p>BSE UMR - CNRS 6060<br>
+Université de Bordeaux<br>
+16 Avenue Léon Duguit<br>
+Bât. H2 (Maison de l'économie)<br>
+33608 PESSAC CEDEX, FRANCE<br>
+**Office:** H2-208</p>
+
+
+
+```{r, layout="l-screen-inset shaded", echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-0.61563, lat=44.7982, popup="The birthplace of R")
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
