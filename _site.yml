@@ -7,7 +7,7 @@ description: |
 output_dir: "."
 navbar:
   search: false 
-  source_url: https://github.com/4rnaud
+  source_url: https://github.com/arnaudnatal
   right:
     - text: "Home"
       href: index.html
