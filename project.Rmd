@@ -17,7 +17,7 @@ We have been collecting quantitative panel data on households and individuals in
 We also use a variety of socio-economic methods (financial diaries, village monographs, life stories, video documentaries, etc). 
 Beyond the regional analysis, the ODRIIS Observatory intends to contribute to the theoretical renewal of the concepts of work, networks, skills, debt and financialisation.
 
-```{r, fig.cap="Family from Mannapakam, India.", echo=FALSE}
+```{r, fig.cap="Family from Manapakkam, India.", echo=FALSE}
 knitr::include_graphics("https://raw.githubusercontent.com/4rnaud/Form_TeX/main/header.jpeg")
 ```
 
