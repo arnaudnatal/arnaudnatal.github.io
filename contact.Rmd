@@ -12,7 +12,7 @@ description: |
 library(icons)
 ```  
 
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/openedition.svg" width="20" height="20"> [neemsis.hypotheses.org/team/arnaud-natal](https://www.neemsis.hypotheses.org/team/arnaud-natal) 
+<!---| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/openedition.svg" width="20" height="20"> [neemsis.hypotheses.org/team/arnaud-natal](https://www.neemsis.hypotheses.org/team/arnaud-natal) -->
 | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20"> [orcid.org/0000-0003-1301-2281](https://www.orcid.org/0000-0003-1301-2281)
 | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20"> [researchgate.net/profile/Arnaud-Natal](https://www.researchgate.net/profile/Arnaud-Natal)
 | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20"> [github.com/arnaudnatal](https://www.github.com/arnaudnatal)

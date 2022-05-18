@@ -9,10 +9,11 @@ description: |
   
   I am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)) of the University of Bordeaux in France. <img src="https://www.transnationalgiving.eu/wp-content/uploads/2021/06/flag-round-250.png" width="20" height="20">
 
-  My fields of specialization are development economics, household finance, and behavioural economics. I use both quantitative and qualitative data in my research. My work focuses mainly on India.
 
 site: distill::distill_website
 ---
+
+<!---  My fields of specialization are development economics, household finance, and behavioural economics. I use both quantitative and qualitative data in my research. My work focuses mainly on India. -->
 
 
 ```{r setup, include=FALSE}
