@@ -12,7 +12,7 @@ output:
 
 1. Natal, A. *Psychology of Debt in Rural Tamil Nadu, India* (Thesis chapter). Bordeaux, France: University of Bordeaux.
    + See the poster here.
-   + See the complete bibliography here.
+   + See the complete bibliography [here.](https://github.com/arnaudnatal/Research/raw/main/psychodebt/Personality_debt.pdf)
 1. Natal, A. & Nordman, C.J. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India* (Thesis chapter). Bordeaux, France: University of Bordeaux.
 1. Natal, A. & Nordman, C.J. *Persistence of Over-Indebtedness in Rural India* (Thesis chapter). Bordeaux, France: University of Bordeaux.
 
