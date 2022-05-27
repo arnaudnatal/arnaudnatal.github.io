@@ -13,8 +13,11 @@ output:
 ### 2021-22
 
 - **Econometrics with R** (75h), undergraduate level, *University of Bordeaux*, France.
+   + Code available [here.](https://github.com/arnaudnatal/tutorials_UB/tree/main/econometrics_l3eco_2122)
+   
 - **Computer programming with Python** (21h), undergraduate level, *University of Bordeaux*, France.
-
+   + Code available [here.](https://github.com/arnaudnatal/tutorials_UB/tree/main/programming_l2eco_2122)
+   
 ### 2020-21
 
 - **Microeconomics** (13.5h), undergraduate level, *University of Bordeaux*, France.

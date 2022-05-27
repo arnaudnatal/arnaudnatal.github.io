@@ -1,14 +1,19 @@
 ---
 title: "Arnaud Natal"
 image: "images/natal.jpg"
+color1: "#403b2f"
+color2: "#403b2f"
+angle: 180
 links:
+  - label: Researchgate
+    url: "https://www.researchgate.net/profile/Arnaud-Natal"
   - label: GitHub
     url: "https://github.com/arnaudnatal"
   - label: ORCID
     url: "https://orcid.org/0000-0003-1301-2281 "
 site: distill::distill_website
 output:
-  postcards::trestles
+  postcards::solana
 ---
 
 

@@ -1,0 +1,31 @@
+---
+title: "Psychology of debt in Rural South India"
+
+description: Using a panel dataset built from an original household survey carried out in 2016-17 and 2020-21 in rural South India, we analyse the relationship between personality traits (conscientiousness, openness, extraversion, emotional stability, agreeableness) \& cognitive skills (Raven matrices, literacy and numeracy scores) and financial decision-making. We focus on the recourse, the negotiation, and the management of debt. We find that certain personality traits such as openness, extraversion, and conscientiousness are generally significantly associated with negotiating and managing debt.  The magnitude and statistical significance of the association between personality traits and debt differs across castes (Dalit, non-Dalit) and sex. These findings suggest the use of personality traits and cognitive skills for females as a way to overcome the weight of social identity in a rural caste-segmented patriarchal context.
+
+date: May 27, 2022
+
+authors:
+- name: Arnaud Natal
+  affiliation: University of Bordeaux
+  orcid_id: 0000-0003-1301-2281
+- name: Christophe J. Nordman
+  affiliation: IRD-DIAL
+
+bibliography: Ref_Arnaud.yaml
+
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+# Introduction
+
+Coordinated by [Dr Isabelle Guérin](https://www.cessma.org/GUERIN-Isabelle) and [Dr Christophe J. Nordman](https://neemsis.hypotheses.org/team/christophe-jalil-nordman), the ODRIIS Observatory is housed by the research program “Household vulnerabilities, labour and socioeconomic dynamics” in the Social Departments of the French Institute of Pondicherry. 
+ODRIIS aims to analyses how structural changes in contemporary India are reshaping the organisation of work, social hierarchies and household livelihoods.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

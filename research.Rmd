@@ -10,16 +10,20 @@ output:
 
 # In progress
 
-1. Natal, A. *Psychology of Debt in Rural Tamil Nadu, India* (Thesis chapter). Bordeaux, France: University of Bordeaux.
-   + See the poster here.
-   + See the complete bibliography [here.](https://github.com/arnaudnatal/Research/raw/main/psychodebt/Personality_debt.pdf)
-1. Natal, A. & Nordman, C.J. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India* (Thesis chapter). Bordeaux, France: University of Bordeaux.
-1. Natal, A. & Nordman, C.J. *Persistence of Over-Indebtedness in Rural India* (Thesis chapter). Bordeaux, France: University of Bordeaux.
+1. Natal, A. *Psychology of Debt in Rural Tamil Nadu, India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
+   + Using a panel dataset built from an original household survey carried out in 2016-17 and 2020-21 in rural South India, we analyse the relationship between personality traits (conscientiousness, openness, extraversion, emotional stability, agreeableness) \& cognitive skills (Raven matrices, literacy and numeracy scores) and financial decision-making.
+We focus on the recourse, the negotiation, and the management of debt.
+We find that certain personality traits such as openness, extraversion, and conscientiousness are generally significantly associated with negotiating and managing debt. 
+The magnitude and statistical significance of the association between personality traits and debt differs across castes (Dalit, non-Dalit) and sex.
+These findings suggest the use of personality traits and cognitive skills for females as a way to overcome the weight of social identity in a rural caste-segmented patriarchal context.
+   + See the complete bibliography [here.](https://github.com/arnaudnatal/research_draft/blob/main/psychodebt/references.pdf)
+1. Natal, A. & Nordman, C.J. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
+1. Natal, A. & Nordman, C.J. *Persistence of Over-Indebtedness in Rural India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
 
 
 # Publications in peer-reviewed journals
 
-1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. Full article [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
+1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. Full article available [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
 
 
 # Reports
