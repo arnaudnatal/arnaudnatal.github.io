@@ -19,7 +19,7 @@ output:
 
 ### Hi! Welcome to my page!
 
-I am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/membres/arnaud-natal/)) of the University of Bordeaux in France. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/291/flag-france_1f1eb-1f1f7.png" width="20" height="20">
+I am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/)) of the University of Bordeaux in France. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/291/flag-france_1f1eb-1f1f7.png" width="20" height="20">
 
 I am currently involved in the [NEEMSIS](https://neemsis.hypotheses.org/) project of the Observatory of Rural Dynamics and Inequalities in South India ([ODRIIS](https://odriis.hypotheses.org/)), hosted at the French Institute of Pondicherry ([IFP](https://www.ifpindia.org/)), India. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/291/flag-india_1f1ee-1f1f3.png" width="20" height="20">
 
