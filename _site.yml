@@ -11,14 +11,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-#    - text: "Vitae"
-#      href: vitae.html
+    - text: "Vitae"
+      href: vitae.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
       href: teaching.html  
-#    - text: "Project"
-#      href: project.html
+    - text: "Project"
+      href: project.html
 #    - text: "Miscellaneous"
 #      href: miscellaneous.html
     - text: "Contact"

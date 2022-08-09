@@ -16,7 +16,7 @@ We focus on the recourse, the negotiation, and the management of debt.
 We find that certain personality traits such as openness, extraversion, and conscientiousness are generally significantly associated with negotiating and managing debt. 
 The magnitude and statistical significance of the association between personality traits and debt differs across castes (Dalit, non-Dalit) and sex.
 These findings suggest the use of personality traits and cognitive skills for females as a way to overcome the weight of social identity in a rural caste-segmented patriarchal context.
-   + See the complete bibliography [here.](https://github.com/arnaudnatal/research_draft/blob/main/psychodebt/references.pdf)
+
 1. Natal, A. & Nordman, C.J. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
 1. Natal, A. & Nordman, C.J. *Persistence of Over-Indebtedness in Rural India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
 
