@@ -21,6 +21,8 @@ Beyond the regional analysis, the ODRIIS Observatory intends to contribute to th
 knitr::include_graphics("https://raw.githubusercontent.com/arnaudnatal/templates/main/Beamer/Beamer_theme/header.jpeg")
 ```
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1EirtFdWzLn8YEzNuk1JUf2C7ND3Ols8&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
