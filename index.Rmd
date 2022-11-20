@@ -33,7 +33,7 @@ My main fields of interest are Development Economics, and I work on topics relat
 Under the supervision of Christophe Jalil Nordman (LEDa-DIAL, IRD) and Éric Rougier (BSE), my thesis is (temporarily) titled *Essays on debt in rural South India*.
 
 
-Check below the making-of of the NEEMSIS survey!
+Check below the making-of of the NEEMSIS survey:
 
 <iframe width="720" height="430"
 src="https://www.youtube.com/embed/b68yu1CTW0U" 
