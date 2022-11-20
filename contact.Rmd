@@ -1,7 +1,12 @@
 ---
 title: "Contact"
 description: |
-  
+
+output:
+  distill::distill_article:
+    includes:
+      in_header: "header.html"
+ 
 ---
 
 | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope.svg" width="20" height="20">  <arnaud.natal@u-bordeaux.fr>
@@ -34,7 +39,7 @@ Bât. H2 (Maison de l'économie)<br>
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-0.61563, lat=44.7982, popup="The birthplace of R")
+  addMarkers(lng=-0.61563, lat=44.7982, popup="BSE")
 ```
 
 

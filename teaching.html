@@ -106,7 +106,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Teaching"]},{"type":"NULL"},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Teaching"]},{"type":"NULL"},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","includes"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["in_header"]}},"value":[{"type":"character","attributes":{},"value":["header.html"]}]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1939,7 +1939,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
-  </style>
+
+  .article-banner {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  img[src="assets/banner.png"] {
+    border: 0;
+    padding: 0;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2106,6 +2118,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
+  <!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title></title>
+    </head>
+    <body>
+      <div class="article-header">
+        <img src="images/banner.jpg" class="article-banner" alt="">
+      </div>
+      </a>
+    </body>
+  </html>
 
 
 </head>
@@ -2130,7 +2155,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="vitae.html">Vitae</a>
 <a href="research.html">Research</a>
 <a href="teaching.html">Teaching</a>
-<a href="project.html">Project</a>
 <a href="contact.html">Contact</a>
 <a href="https://github.com/arnaudnatal" aria-label="Link to source">
 <i class="fab fa-github" aria-hidden="true"></i>
@@ -2158,8 +2182,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <ul>
 <li><a href="#tutorials" id="toc-tutorials">Tutorials</a>
 <ul>
-<li><a href="#section" id="toc-section">2021-22</a></li>
-<li><a href="#section-1" id="toc-section-1">2020-21</a></li>
+<li><a href="#section" id="toc-section">2022-23</a></li>
+<li><a href="#section-1" id="toc-section-1">2021-22</a></li>
+<li><a href="#section-2" id="toc-section-2">2020-21</a></li>
 </ul></li>
 <li><a href="#miscellaneous"
 id="toc-miscellaneous">Miscellaneous</a></li>
@@ -2167,7 +2192,13 @@ id="toc-miscellaneous">Miscellaneous</a></li>
 </nav>
 </div>
 <h1 id="tutorials">Tutorials</h1>
-<h3 id="section">2021-22</h3>
+<h3 id="section">2022-23</h3>
+<ul>
+<li>Invited tutor for the sixth edition of the <strong>Social Sciences
+Winter School in Pondicherry</strong> on the topic of Rethinking
+inequalities, Ph.D. level, <em>Pondicherry University</em>, India.</li>
+</ul>
+<h3 id="section-1">2021-22</h3>
 <ul>
 <li><strong>Econometrics with R</strong> (75h), undergraduate level,
 <em>University of Bordeaux</em>, France.
@@ -2182,7 +2213,7 @@ undergraduate level, <em>University of Bordeaux</em>, France.
 href="https://github.com/arnaudnatal/tutorials_UB/tree/main/programming_l2eco_2122">here.</a></li>
 </ul></li>
 </ul>
-<h3 id="section-1">2020-21</h3>
+<h3 id="section-2">2020-21</h3>
 <ul>
 <li><strong>Microeconomics</strong> (13.5h), undergraduate level,
 <em>University of Bordeaux</em>, France.</li>

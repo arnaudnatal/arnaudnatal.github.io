@@ -17,8 +17,8 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html  
-    - text: "Project"
-      href: project.html
+#    - text: "Project"
+#      href: project.html
 #    - text: "Miscellaneous"
 #      href: miscellaneous.html
     - text: "Contact"

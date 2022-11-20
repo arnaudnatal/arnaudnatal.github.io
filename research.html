@@ -106,7 +106,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"NULL"},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Research"]},{"type":"NULL"},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","includes"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["in_header"]}},"value":[{"type":"character","attributes":{},"value":["header.html"]}]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1939,7 +1939,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
-  </style>
+
+  .article-banner {
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  img[src="assets/banner.png"] {
+    border: 0;
+    padding: 0;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2106,6 +2118,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
+  <!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title></title>
+    </head>
+    <body>
+      <div class="article-header">
+        <img src="images/banner.jpg" class="article-banner" alt="">
+      </div>
+      </a>
+    </body>
+  </html>
 
 
 </head>
@@ -2130,7 +2155,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="vitae.html">Vitae</a>
 <a href="research.html">Research</a>
 <a href="teaching.html">Teaching</a>
-<a href="project.html">Project</a>
 <a href="contact.html">Contact</a>
 <a href="https://github.com/arnaudnatal" aria-label="Link to source">
 <i class="fab fa-github" aria-hidden="true"></i>
@@ -2156,64 +2180,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#in-progress" id="toc-in-progress">In progress</a></li>
+<li><a href="#in-progress-email-me-for-drafts"
+id="toc-in-progress-email-me-for-drafts">In progress (email me for
+drafts)</a></li>
 <li><a href="#publications-in-peer-reviewed-journals"
 id="toc-publications-in-peer-reviewed-journals">Publications in
 peer-reviewed journals</a></li>
-<li><a href="#reports" id="toc-reports">Reports</a></li>
 </ul>
 </nav>
 </div>
-<h1 id="in-progress">In progress</h1>
+<h1 id="in-progress-email-me-for-drafts">In progress (email me for
+drafts)</h1>
 <ol type="1">
-<li>Natal, A. <em>Psychology of Debt in Rural Tamil Nadu, India</em>
-(Preliminary draft). Bordeaux, France: University of Bordeaux.
-<ul>
-<li>Using a panel dataset built from an original household survey
-carried out in 2016-17 and 2020-21 in rural South India, we analyse the
-relationship between personality traits (conscientiousness, openness,
-extraversion, emotional stability, agreeableness) &amp; cognitive skills
-(Raven matrices, literacy and numeracy scores) and financial
-decision-making. We focus on the recourse, the negotiation, and the
-management of debt. We find that certain personality traits such as
-openness, extraversion, and conscientiousness are generally
-significantly associated with negotiating and managing debt. The
-magnitude and statistical significance of the association between
-personality traits and debt differs across castes (Dalit, non-Dalit) and
-sex. These findings suggest the use of personality traits and cognitive
-skills for females as a way to overcome the weight of social identity in
-a rural caste-segmented patriarchal context.</li>
-</ul></li>
-</ol>
-<p><a href="https://www.dropbox.com/s/xxan4xyb4lnyreq/Poster_Psycho_debt.pdf?dl=0">
-<img src="https://raw.githubusercontent.com/arnaudnatal/arnaudnatal.github.io/main/images/Poster_Psycho_debt.jpg"
-width="300" height="" hspace="150"> </a></p>
-<ol type="1">
+<li>Natal, A. <em>Psychology of Debt in Rural Tamil Nadu, India</em>.
+Bordeaux, France: University of Bordeaux.</li>
 <li>Natal, A. &amp; Nordman, C.J. <em>Measure and (In)stability Over
-Time of Cognitive Skills and Personality Traits in Rural India</em>
-(Preliminary draft). Bordeaux, France: University of Bordeaux.</li>
-<li>Natal, A. &amp; Nordman, C.J. <em>Persistence of Over-Indebtedness
-in Rural India</em> (Preliminary draft). Bordeaux, France: University of
+Time of Cognitive Skills and Personality Traits in Rural India</em>.
+Bordeaux, France: University of Bordeaux.</li>
+<li>Natal, A. &amp; Nordman, C.J. <em>Household indebtedness and Labour
+Supplu in Rural South India</em>. Bordeaux, France: University of
 Bordeaux.</li>
 </ol>
 <h1 id="publications-in-peer-reviewed-journals">Publications in
 peer-reviewed journals</h1>
 <ol type="1">
+<li>Natal, A., &amp; Nordman, C. J. (2023). Locus of Control, Social
+Identity, and Indebtedness in South India [Forthcoming]. <em>Revue
+d’Économie du Développement</em>.</li>
 <li>Guérin, I., Michiels, S., Natal, A., Nordman, C. J., &amp;
 Venkatasubramanian, G. (2022). Surviving Debt, Survival Debt in Times of
 Lockdown. <em>Economic &amp; Political Weekly, 57</em>(1), 41–49. Full
 article available <a
 href="https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown">here.</a></li>
-</ol>
-<h1 id="reports">Reports</h1>
-<ol type="1">
-<li>Nordman, C. J., Guérin, I., Michiels, S., Natal, A., &amp;
-Venkatasubramanian, G. (2019). <em>NEEMSIS Survey Report: A Full
-Statistical Picture of the Household and Individual Data</em> (Survey
-report). Paris, France and Pondicherry, India: French Institute of
-Pondicherry (IFP) and French National Research Institute for Sustainable
-Development (IRD). Retrieved from <a
-href="https://neemsis.hypotheses.org/ressources/statistical-report">https://neemsis.hypotheses.org/ressources/statistical-report</a></li>
 </ol>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>

@@ -1,6 +1,6 @@
 ---
 title: "Arnaud Natal"
-image: "images/natal.jpg"
+image: "https://neemsis.hypotheses.org/files/2022/10/Arnaud_web.jpg"
 color1: "#403b2f"
 color2: "#403b2f"
 angle: 180
@@ -10,18 +10,28 @@ links:
   - label: GitHub
     url: "https://github.com/arnaudnatal"
   - label: ORCID
-    url: "https://orcid.org/0000-0003-1301-2281 "
+    url: "https://orcid.org/0000-0003-1301-2281"
+  - label: NEEMSIS page
+    url: "https://neemsis.hypotheses.org/team/arnaud-natal/"  
 site: distill::distill_website
 output:
-  postcards::solana
+  postcards::trestles
+#jolla  
+#trestles
 ---
 
 
 ### Hi! Welcome to my page!
 
-I am a Ph.D. Student at the Economics departement ([BSE](https://www.bse.u-bordeaux.fr/)) of the University of Bordeaux in France. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/291/flag-france_1f1eb-1f1f7.png" width="20" height="20">
 
-I am currently involved in the [NEEMSIS](https://neemsis.hypotheses.org/) project of the Observatory of Rural Dynamics and Inequalities in South India ([ODRIIS](https://odriis.hypotheses.org/)), hosted at the French Institute of Pondicherry ([IFP](https://www.ifpindia.org/)), India. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/291/flag-india_1f1ee-1f1f3.png" width="20" height="20">
+I am a Ph.D. Student at the Economics departement ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France, and affiliated to the the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India, through the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org/) (ODRIIS).
+
+I am currently in India until August 2023.
+
+My main fields of interest are Development Economics, and I work on topics related to household indebtedness, labour market, and cognitive skills/personality traits in rural South India, using the [RUME](https://odriis.hypotheses.org/projects/data/rume) and [NEEMSIS](https://neemsis.hypotheses.org) datasets.
+
+Under the supervision of Christophe Jalil Nordman (LEDa-DIAL, IRD) and Éric Rougier (BSE), my thesis is (temporarily) titled *Essays on debt in rural South India*.
+
 
 Check below the making-of of the NEEMSIS survey!
 

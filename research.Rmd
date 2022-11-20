@@ -6,40 +6,23 @@ output:
   distill::distill_article:
     toc: true
     toc_depth: 2
+    includes:
+        in_header: "header.html"
+
 ---
 
-# In progress
 
-1. Natal, A. *Psychology of Debt in Rural Tamil Nadu, India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
-   + Using a panel dataset built from an original household survey carried out in 2016-17 and 2020-21 in rural South India, we analyse the relationship between personality traits (conscientiousness, openness, extraversion, emotional stability, agreeableness) \& cognitive skills (Raven matrices, literacy and numeracy scores) and financial decision-making.
-We focus on the recourse, the negotiation, and the management of debt.
-We find that certain personality traits such as openness, extraversion, and conscientiousness are generally significantly associated with negotiating and managing debt. 
-The magnitude and statistical significance of the association between personality traits and debt differs across castes (Dalit, non-Dalit) and sex.
-These findings suggest the use of personality traits and cognitive skills for females as a way to overcome the weight of social identity in a rural caste-segmented patriarchal context.
+# In progress (email me for drafts)
 
-<a href="https://www.dropbox.com/s/xxan4xyb4lnyreq/Poster_Psycho_debt.pdf?dl=0">
-<img src="https://raw.githubusercontent.com/arnaudnatal/arnaudnatal.github.io/main/images/Poster_Psycho_debt.jpg"
-width="300" height="" hspace="150">
-</a>
-
-
-1. Natal, A. & Nordman, C.J. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
-1. Natal, A. & Nordman, C.J. *Persistence of Over-Indebtedness in Rural India* (Preliminary draft). Bordeaux, France: University of Bordeaux.
+1. Natal, A. *Psychology of Debt in Rural Tamil Nadu, India*. Bordeaux, France: University of Bordeaux.
+1. Natal, A. & Nordman, C.J. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India*. Bordeaux, France: University of Bordeaux.
+1. Natal, A. & Nordman, C.J. *Household indebtedness and Labour Supplu in Rural South India*. Bordeaux, France: University of Bordeaux.
 
 
 # Publications in peer-reviewed journals
 
+1. Natal, A., & Nordman, C. J. (2023). Locus of Control, Social Identity, and Indebtedness in South India [Forthcoming]. *Revue d'Économie du Développement*.
 1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. Full article available [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
-
-
-# Reports
-
-1. Nordman, C. J., Guérin, I., Michiels, S., Natal, A., & Venkatasubramanian, G. (2019). *NEEMSIS Survey Report: A Full Statistical Picture of the Household and Individual Data* (Survey report). Paris, France and Pondicherry, India: French Institute of Pondicherry (IFP) and French National Research Institute for Sustainable Development (IRD). Retrieved from [https://neemsis.hypotheses.org/ressources/statistical-report](https://neemsis.hypotheses.org/ressources/statistical-report)
-
-[comment]: <> (# Unpublished works)
-[comment]: <> (1. Natal, A. (2019). *Impact of marriage on the over-indebtedness of rural household in Tamil Nadu: an analysis by conditional diff-in-diff matching* (M.A. dissertation). Bordeaux, France: University of Bordeaux. *In french*.)
-[comment]: <> (1. Natal, A., Cachau, D., Couvin, A., Apedo, A., Aziadeke, A., & Atiego-Noglo, C. Y. (2018). *Feasibility study of REDD+ recommendations in the Danyimé area, Togo* (Survey report). Adéta, Togo: NGO FAGAD. *In french*.)
-[comment]: <> (1. Cachau, D. & Natal, A. (2018). *Impact of microfinance on women’s empowerment* (M.A. dissertation). Bordeaux, France: University of Bordeaux. *In french*.)
 
 
 ```{r setup, include=FALSE}

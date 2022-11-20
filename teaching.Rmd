@@ -6,9 +6,17 @@ output:
   distill::distill_article:
     toc: true
     toc_depth: 3
+    includes:
+      in_header: "header.html"
+
 ---
 
 # Tutorials
+
+### 2022-23
+
+- Invited tutor for the sixth edition of the **Social Sciences Winter School in Pondicherry** on the topic of Rethinking inequalities, Ph.D. level, *Pondicherry University*, India.
+
 
 ### 2021-22
 
