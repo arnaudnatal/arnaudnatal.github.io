@@ -1,6 +1,6 @@
 name: "arnaudnatal"
 title: "Arnaud Natal"
-
+google_analytics: "G-BQGSBV202W"
 theme: theme.css
 description: |
   My Website
@@ -22,5 +22,5 @@ navbar:
 #    - text: "Miscellaneous"
 #      href: miscellaneous.html
     - text: "Contact"
-      href: contact.html      
+      href: contact.html
 output: distill::distill_article
