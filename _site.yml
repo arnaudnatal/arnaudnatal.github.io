@@ -1,9 +1,8 @@
-name: "arnaudnatal"
+name: "Arnaud Natal - Personal website"
 title: "Arnaud Natal"
 google_analytics: "G-BQGSBV202W"
 theme: theme.css
-description: |
-  My Website
+description: "Personal website of Arnaud Natal, PhD Student in Development Economics"
 output_dir: "."
 navbar:
   search: false 
