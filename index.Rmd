@@ -25,6 +25,7 @@ output:
 
 
 I am a Ph.D. Student at the Economics departement ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France, and affiliated to the the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India, through the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org/) (ODRIIS).
+I am involved in the development of the [NEEMSIS](https://neemsis.hypotheses.org) longitudinal survey since 2019.
 
 I am currently in India until August 2023.
 
