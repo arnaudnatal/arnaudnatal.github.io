@@ -2,14 +2,14 @@ name: "Arnaud Natal - Personal website"
 title: "Arnaud Natal"
 google_analytics: "G-BQGSBV202W"
 theme: theme.css
-description: "Personal website of Arnaud Natal, PhD Student in Development Economics"
+description: "Personal website of Arnaud Natal"
 output_dir: "."
 navbar:
-search: false 
-source_url: https://github.com/arnaudnatal
-right:
-  - text: "Home"
-    href: index.html
-  - text: "Vitae"
-    href: vitae.html
+ search: false 
+#  source_url: https://github.com/arnaudnatal
+#  right:
+#    - text: "Home"
+#      href: index.html
+#    - text: "Vitae"
+#      href: vitae.html
 output: distill::distill_article

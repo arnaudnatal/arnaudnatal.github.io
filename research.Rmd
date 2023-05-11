@@ -1,0 +1,38 @@
+---
+title: "Research"
+description: |
+   My research mobilises statistical tools to analyse the financial behaviour, labour and cognition of households in rural South India. <br> 
+   I pay particular attention to the quality of the data, the transparency of the analyses and the ethics of research more generally. <br>
+   Also, I am involved in the [NEEMSIS](https://neemsis.hypotheses.org/) data collection.
+
+output:
+  distill::distill_article:
+    toc: false
+    toc_depth: 3
+---
+
+
+
+### Publications in peer-reviewed journals
+
+1. Locus of Control, Social Identity, and Indebtedness in South India. *Revue d'Économie du Développement*, 2023, with C.J. Nordman.
+1. Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49, 2022, with I. Guérin, S. Michiels, C.J. Nordman, & G. Venkatasubramanian, G. (2022).  Full article available [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
+
+
+### In progress
+
+1. *Psychology of Debt in Rural Tamil Nadu, India*, with C.J. Nordman.
+1. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India*, with C.J. Nordman.
+1. *Measuring household financial vulnerability in a poor developing area context: A new index and an application from rural South India*.
+1. *Household Financial Vulnerability and Household Labour allocation in Rural South India*.
+
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+

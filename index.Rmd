@@ -1,5 +1,7 @@
 ---
 title: "Arnaud Natal"
+description: |
+  arnaud.natal@u-bordeaux.fr
 image: "images/Arnaud.jpg"
 color1: "#403b2f"
 color2: "#403b2f"
@@ -7,26 +9,26 @@ angle: 180
 links:
   - label: CV
     url: "vitae.html"
-  - label: ResearchGate
-    url: "https://www.researchgate.net/profile/Arnaud-Natal"
-  - label: GitHub
-    url: "https://github.com/arnaudnatal"
-  - label: ORCID
-    url: "https://orcid.org/0000-0003-1301-2281"
+  - label: Research
+    url: "research.html"
+  - label: Networks
+    url: "networks.html"
 site: distill::distill_website
 output:
-  postcards::jolla
+  postcards::trestles
 #solana
 #jolla  
 #trestles
 ---
 
-### Hi! Welcome to my page!
+### Welcome to my page!
 
 
-I am a Ph.D. Student at the Economics departement ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France, and affiliated to the the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India, through the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org/) (ODRIIS).
-I am involved in the development of the [NEEMSIS](https://neemsis.hypotheses.org) longitudinal survey since 2019.
+I am a Ph.D. student at the Economics departement ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France, and affiliated to the the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India.
+I am also involved in the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org) (ODRIIS).
 
-I am currently in India until August 2023.
+I am in India until August 2023.
 
-My main field of interest is Development Economics, and I work on topics related to household indebtedness, labour market, and cognitive skills/personality traits in rural South India, using the [RUME](https://odriis.hypotheses.org/projects/data/rume) and [NEEMSIS](https://neemsis.hypotheses.org) datasets.
+My main field of interest is development economics, and I work on topics related to household indebtedness, labour, and cognition.
+
+**Contact:** [arnaud.natal@u-bordeaux.fr](mailto:arnaud.natal@u-bordeaux.fr)
