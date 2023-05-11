@@ -1,25 +1,25 @@
 ---
 title: "Arnaud Natal"
-image: "https://neemsis.hypotheses.org/files/2022/10/Arnaud_web.jpg"
+image: "images/Arnaud.jpg"
 color1: "#403b2f"
 color2: "#403b2f"
 angle: 180
 links:
-  - label: Researchgate
+  - label: CV
+    url: "vitae.Rmd"
+  - label: ResearchGate
     url: "https://www.researchgate.net/profile/Arnaud-Natal"
   - label: GitHub
     url: "https://github.com/arnaudnatal"
   - label: ORCID
     url: "https://orcid.org/0000-0003-1301-2281"
-  - label: NEEMSIS page
-    url: "https://neemsis.hypotheses.org/team/arnaud-natal/"  
 site: distill::distill_website
 output:
-  postcards::trestles
+  postcards::jolla
+#solana
 #jolla  
 #trestles
 ---
-
 
 ### Hi! Welcome to my page!
 
@@ -30,15 +30,3 @@ I am involved in the development of the [NEEMSIS](https://neemsis.hypotheses.org
 I am currently in India until August 2023.
 
 My main field of interest is Development Economics, and I work on topics related to household indebtedness, labour market, and cognitive skills/personality traits in rural South India, using the [RUME](https://odriis.hypotheses.org/projects/data/rume) and [NEEMSIS](https://neemsis.hypotheses.org) datasets.
-
-Under the supervision of Christophe Jalil Nordman (LEDa-DIAL, IRD) and Éric Rougier (BSE), my thesis is (temporarily) titled *Essays on debt in rural South India*.
-
-
-Check below the making-of of the NEEMSIS survey:
-
-<iframe width="720" height="430"
-src="https://www.youtube.com/embed/b68yu1CTW0U" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-

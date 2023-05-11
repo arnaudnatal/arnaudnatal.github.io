@@ -14,12 +14,10 @@
 
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
-@import url('https://fonts.googleapis.com/css2?family=Amiri');
-@import url('https://fonts.googleapis.com/css2?family=Bitter');
-@import url('https://fonts.googleapis.com/css2?family=DM+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
 
 body {
-  background-color: #fffaf0;
+  background-color: #fffaf0 ;
 }
 
 
@@ -37,10 +35,10 @@ html {
   --aside-color:     #403b2f;
   --fig-cap-color:   #403b2f;
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    "Amiri", serif;
-  --mono-font:       "DM Mono", monospace;
-  --body-font:       "Amiri", serif;
-  --navbar-font:     "Bitter", sans-serif;  /* websites + blogs only */
+  --heading-font:    "Montserrat", serif;
+  --mono-font:       "Montserrat", monospace;
+  --body-font:       "Montserrat", serif;
+  --navbar-font:     "Montserrat", sans-serif;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -73,7 +71,7 @@ html {
   --text-color:       #fffaf0;
   --text-size:        20px;
   --hover-color:      white;
-  --bkgd-color:       #403b2f;
+  --bkgd-color:       #b4ca81;
 }
 
 .distill-site-footer {
@@ -90,11 +88,4 @@ html {
   width: 100%;
   height: 100%;
   border: 0;
-}
-
-img[src="assets/banner.png"] {
-  border: 0;
-  padding: 0;
-  width: 100%;
-  margin: 0px 0px 0px 0px;
 }

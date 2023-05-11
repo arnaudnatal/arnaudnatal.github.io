@@ -1,72 +1,125 @@
 ---
-title: "Vitae"
+title: "Arnaud Natal"
 description: |
+ **Ph.D. Candidate in Economics** <br>
+ <br>
+ Fields of interest:  <br>
+ Development economics, household finances, behavioural economics, microeconomics
    
 output:
   distill::distill_article:
     toc: true
     toc_depth: 3
-    includes:
-      in_header: "header.html"
 ---
 
-# Affiliation
-
-French Institute of Pondicherry (2022 - .)
-
-Bordeaux School of Economics (2019 - .)
 
 
+## Professional appointments
 
-# Education
+**Research assistant** | French National Research Institute for Sustainable Development, India | 2022 - 2023
 
-### Ph.D. in Development Economics (since 2019)
+**Temporary lecturer and research assistant** | University of Bordeaux, France | 2021 - 2022
 
-<p> *University of Bordeaux*, France. <br>
-Title: **Essays on debt in South India** <br>
-Supervisors: Dr Christophe J. Nordman and Prof. Éric Rougier <br>
-— **Long  term stay** at *French Institute of Pondicherry*, India (2022 - 2023).<br>
-— **Visiting** at *Newcastle University Business School*, UK (2021). Invited by Dr Smriti Sharma. <br>
-— **Visiting** at *LEDa-DIAL, IRD*, France (2021). </p>
+**Research assistant** | French Institute of Pondicherry, India | 2019
 
-
-
-### M.A. in Development Economics and Applied Statistics (2019)
-
-*University of Bordeaux*, France.
-
-### B.A. in Economics and Management (2017)
-
-*University of Bordeaux*, France.
+**Survey coordinator** | NGO FAGAD, Togo | 2018
 
 
 
 
 
-# Professional Appointments
 
-### Research Assistant (2022-23)
 
-<p> *French Institute of Pondicherry*, India. <br>
-Through the Observatory of Rural Dynamics and Inequalities in South India (ODRIIS), hosted at the French Institute of Pondicherry (IFP) in India, I am in charge of managing the Observatory's data (especially RUME and NEEMSIS datasets) and of the local animation and communication of the ODRIIS.
-More specifically, my missions are as follows: <br>
-— Implementation of a migrant questionnaire (coding of the questionnaire on tablet in XLSForm format, follow-up of the survey and final formatting of the data).<br>
-— Writing and designing survey manuals (RUME-NEEMSIS datasets). <br>
-— Design and animations of the ODRIIS and NEEMSIS websites. </p>
+## Affiliations
 
-### Temporary Lecturer and Research Assistant (2021-22)
+**French Institute of Pondicherry** | 2022 - .
 
-*University of Bordeaux*, France.
-
-### Research Assistant (2019)
-
-*French Institute of Pondicherry*, India.
+**Bordeaux School of Economics** | 2019 - .
 
 
 
-### Survey Coordinator (2018)
 
-*NGO FAGAD*, Togo.
+
+
+
+
+
+## Education
+
+**Ph.D. in Economics** | University of Bordeaux, France | 2023
+
+- Long  term stay at French Institute of Pondicherry, India
+- Visiting at Newcastle University Business School, UK
+- Visiting at LEDa-DIAL, France
+
+**M.A. in Development Economics and Applied Statistics** | University of Bordeaux, France | 2019
+
+**B.A. in Economics and Management** | University of Bordeaux, France | 2017
+
+
+
+
+
+
+
+
+
+## Research
+
+### Publications in peer-reviewed journals
+
+1. Locus of Control, Social Identity, and Indebtedness in South India. *Revue d'Économie du Développement*, 2023, with C.J. Nordman.
+1. Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49, 2022, with I. Guérin, S. Michiels, C.J. Nordman, & G. Venkatasubramanian, G. (2022).  Full article available [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
+
+
+### In progress
+
+1. Psychology of Debt in Rural Tamil Nadu, India, with C.J. Nordman.
+1. Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India, with C.J. Nordman.
+1. Measuring household financial vulnerability in a poor developing area context: A new index and an application from rural South India
+1. Household Financial Vulnerability and Household Labour allocation in Rural South India
+
+
+
+
+
+## Conferences
+
+- ICDE conference, Clermont Auvergne University, France | 2022
+- Challine conference, Aix-Marseille University, France | 2022
+- DIAL seminar, LEDA-DIAL, France | 2022
+
+
+
+
+
+
+
+## Teaching experiences
+
+### Tutorials
+
+- **Econometrics with R** (75h), B.A. level, University of Bordeaux | 2021 - 2022
+- **Programming with Python** (21h), B.A. level, University of Bordeaux | 2021 - 2022
+- **Microeconomics** (13.5h), B.A. level, University of Bordeaux | 2020 - 2021
+- **Statistics** (54h), B.A. level, University of Bordeaux | 2020 - 2021
+
+### Miscellaneous
+
+- Trainer for the sixth **Social Sciences Winter School in Pondicherry** on the topic of Rethinking inequalities | 2022
+
+
+
+
+
+
+
+
+## Activities
+
+- Co-organiser of the Monday Colloquium at the French Institute of Pondicherry | 2023
+
+
 
 
 
