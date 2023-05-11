@@ -6,7 +6,7 @@ color2: "#403b2f"
 angle: 180
 links:
   - label: CV
-    url: "vitae.Rmd"
+    url: "vitae.html"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Arnaud-Natal"
   - label: GitHub
