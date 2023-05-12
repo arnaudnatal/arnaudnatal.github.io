@@ -1877,11 +1877,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   html {
     /*-- Main font sizes --*/
-    --title-size:      40px;
-    --body-size:       18px;
-    --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
+    --title-size:       30px;
+    --body-size:        16px;
+    --code-size:        14px;
+    --aside-size:       14px;
+    --fig-cap-size:     14px;
     /*-- Main font colors --*/
     --title-color:     #403b2f;
     --header-color:    #403b2f;
@@ -1895,25 +1895,46 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --navbar-font:     "Montserrat", sans-serif;  /* websites + blogs only */
   }
 
+
+  /*-- DESCRIPTION FONTSIZE --*/
+  d-title p {
+      font-size: 16px;
+  }
+
+
+  /*-- ARTICLE FONTSIZE --*/
+  d-article h1 {
+    font-size: 25px;
+  }
+
+  d-article h2 {
+    font-size: 20px;
+  }
+
+  d-article h3 {
+    font-size: 16px;
+  }
+
+
   /*-- ARTICLE METADATA --*/
   .d-byline {
-    --heading-size:    0.6rem;
+    --heading-size:    16px;
     --heading-color:   #ffffff;
-    --body-size:       0.8rem;
+    --body-size:       14px;
     --body-color:      #ffffff;
   }
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
   .d-contents {
-    --heading-size:    16px;
-    --contents-size:   13px;
+    --heading-size:    14px;
+    --contents-size:   12px;
   }
 
   /*-- ARTICLE APPENDIX --*/
   .d-appendix {
-    --heading-size:    15px;
+    --heading-size:    14px;
     --heading-color:   #ffffff;
-    --text-size:       0.8em;
+    --text-size:       12px;
     --text-color:      #ffffff;
   }
 
@@ -2148,26 +2169,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <p>I am present on many academic platforms:</p>
-<ul>
-<li><div
+<div
 class="line-block"><img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" width="20" height="20">
 <a
 href="https://scholar.google.com/citations?user=TkRH7poAAAAJ&amp;hl">Google
-Scholar</a></div></li>
-<li><div
-class="line-block"><img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20">
-<a href="https://www.orcid.org/0000-0003-1301-2281">ORCID</a></div></li>
-<li><div
-class="line-block"><img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20">
+Scholar</a> <br><br />
+<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20">
+<a href="https://www.orcid.org/0000-0003-1301-2281">ORCID</a> <br><br />
+<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20">
 <a href="https://www.researchgate.net/profile/Arnaud-Natal">Research
-Gate</a></div></li>
-<li><div
-class="line-block"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20">
-<a href="https://www.github.com/arnaudnatal">GitHub</a></div></li>
-<li><div
-class="line-block"><img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20">
-<a href="https://ideas.repec.org/f/pna744.html">Repec</a></div></li>
-</ul>
+Gate</a> <br><br />
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20">
+<a href="https://www.github.com/arnaudnatal">GitHub</a> <br><br />
+<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20">
+<a href="https://ideas.repec.org/f/pna744.html">Repec</a> <br></div>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

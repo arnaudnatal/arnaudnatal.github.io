@@ -8,8 +8,20 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
-    <style type="text/css">body {font-family: 'Roboto Slab', serif;}</style>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <style type="text/css">body {font-family: 'Roboto Mono', serif;}</style>
+
+    <style>
+      @media screen and (min-width: 768px) {
+        .container {
+          width: 768px;
+        }
+      }
+
+      body {
+        background-color: #f5e9dd;
+      }
+    </style>
 
     <title>Arnaud Natal</title>
 
@@ -481,11 +493,11 @@
 
           html {
             /*-- Main font sizes --*/
-            --title-size:      40px;
-            --body-size:       18px;
-            --code-size:       14px;
-            --aside-size:      12px;
-            --fig-cap-size:    13px;
+            --title-size:       30px;
+            --body-size:        16px;
+            --code-size:        14px;
+            --aside-size:       14px;
+            --fig-cap-size:     14px;
             /*-- Main font colors --*/
             --title-color:     #403b2f;
             --header-color:    #403b2f;
@@ -499,25 +511,46 @@
             --navbar-font:     "Montserrat", sans-serif;  /* websites + blogs only */
           }
 
+
+          /*-- DESCRIPTION FONTSIZE --*/
+          d-title p {
+              font-size: 16px;
+          }
+
+
+          /*-- ARTICLE FONTSIZE --*/
+          d-article h1 {
+            font-size: 25px;
+          }
+
+          d-article h2 {
+            font-size: 20px;
+          }
+
+          d-article h3 {
+            font-size: 16px;
+          }
+
+
           /*-- ARTICLE METADATA --*/
           .d-byline {
-            --heading-size:    0.6rem;
+            --heading-size:    16px;
             --heading-color:   #ffffff;
-            --body-size:       0.8rem;
+            --body-size:       14px;
             --body-color:      #ffffff;
           }
 
           /*-- ARTICLE TABLE OF CONTENTS --*/
           .d-contents {
-            --heading-size:    16px;
-            --contents-size:   13px;
+            --heading-size:    14px;
+            --contents-size:   12px;
           }
 
           /*-- ARTICLE APPENDIX --*/
           .d-appendix {
-            --heading-size:    15px;
+            --heading-size:    14px;
             --heading-color:   #ffffff;
-            --text-size:       0.8em;
+            --text-size:       12px;
             --text-color:      #ffffff;
           }
 
@@ -716,74 +749,68 @@
           <!--radix_placeholder_site_before_body-->
           <!--/radix_placeholder_site_before_body-->
     
-    <div class="container-fluid d-none d-lg-block d-xl-block">
-      <div class="d-flex row flex-row vh-100">
-        <div class="d-flex flex-column col-5 align-items-center text-center align-self-center">
-          <div class="mx-auto text-center">
-            <div class="p-3">
-              <img src="images/Arnaud.jpg" style="height:15rem" class="rounded">
-            </div>
-            <div class="p-2">
-              <h1>Arnaud Natal</h1>
-            </div>
-            <hr style="width:60%;"/>
-            <div class="p-2">
-              <div id="icon-list">
-                <ul class="list-inline">
-                                    <li class="list-inline-item">
-                    <a href=vitae.html>
-                      <button type="button" class="btn btn-outline-dark mb-2">
-                        CV
-                      </button>
-                    </a>
-                  </li>
-                                    <li class="list-inline-item">
-                    <a href=research.html>
-                      <button type="button" class="btn btn-outline-dark mb-2">
-                        Research
-                      </button>
-                    </a>
-                  </li>
-                                    <li class="list-inline-item">
-                    <a href=networks.html>
-                      <button type="button" class="btn btn-outline-dark mb-2">
-                        Networks
-                      </button>
-                    </a>
-                  </li>
-                                  </ul>
-              </div>
-            </div>
+    <div class="container d-none d-lg-block d-xl-block">
+      <div class="row mt-5">
+        <div class="col-7 mt-5">
+          <h1>Arnaud Natal</h1>
+          <hr style="max-width: 200px; margin-left:0;" style="width:60%;"/>
+          <div class="my-3" id="icon-list">
+            <ul class="list-inline">
+                            <li class="list-inline-item">
+                <a href=vitae.html>
+                  <button type="button" class="btn btn-outline-dark mb-2">
+                    CV
+                  </button>
+                </a>
+              </li>
+                            <li class="list-inline-item">
+                <a href=research.html>
+                  <button type="button" class="btn btn-outline-dark mb-2">
+                    Research
+                  </button>
+                </a>
+              </li>
+                            <li class="list-inline-item">
+                <a href=networks.html>
+                  <button type="button" class="btn btn-outline-dark mb-2">
+                    Networks
+                  </button>
+                </a>
+              </li>
+                          </ul>
           </div>
         </div>
-        <div class="d-flex flex-column vh-100 border-left"></div>
-        <div class="d-flex flex-column col px-5 align-items-center align-self-center mh-100" style="overflow-y: scroll;">
-          <div class="my-5" id="content">
-            <div id="welcome-to-my-page" class="section level3">
-            <h3>Welcome to my page!</h3>
-            <p>I am a Ph.D. student at the Economics departement (<a
-            href="(https://www.bse.u-bordeaux.fr/)">BSE</a>) of the
-            University of Bordeaux in France, and affiliated to the the
-            <a href="https://www.ifpindia.org/">French Institute of
-            Pondicherry</a> (IFP) in India. I am also involved in the <a
-            href="https://odriis.hypotheses.org">Observatory of Rural
-            Dynamics and Inequalities in South India</a> (ODRIIS) and I
-            am a member of <a href="https://afedev.fr/">AFEDEV</a>.</p>
-            <p>I am in India until August 2023.</p>
-            <p>My main field of interest is development economics, and I
-            work on topics related to household indebtedness, labour,
-            and cognition.</p>
-            <p><strong>Contact:</strong> <br> BSE UMR-CNRS 6060, <br>
-            Université de Bordeaux, <br> 16 Avenue Léon Duguit, <br>
-            33608 PESSAC CEDEX, FRANCE. <br> <a
-            href="mailto:arnaud.natal@u-bordeaux.fr">arnaud.natal@u-bordeaux.fr</a></p>
-            </div>
+
+        <div class="col mr-4 mt-5">
+          <img src="images/Arnaud.jpg" style="height:15rem" class="rounded float-right">
+        </div>
+      </div>
+      <div class="row mb-5">
+        <div class="col">
+          <div id="welcome-to-my-page" class="section level3">
+          <h3>Welcome to my page!</h3>
+          <p>I am a Ph.D. student at the Economics departement (<a
+          href="(https://www.bse.u-bordeaux.fr/)">BSE</a>) of the
+          University of Bordeaux in France, and affiliated to the the <a
+          href="https://www.ifpindia.org/">French Institute of
+          Pondicherry</a> (IFP) in India. I am also involved in the <a
+          href="https://odriis.hypotheses.org">Observatory of Rural
+          Dynamics and Inequalities in South India</a> (ODRIIS) and I am
+          a member of <a href="https://afedev.fr/">AFEDEV</a>.</p>
+          <p>I am in India until August 2023.</p>
+          <p>My main field of interest is development economics, and I
+          work on topics related to household indebtedness, labour, and
+          cognition.</p>
+          <p><strong>Contact:</strong> <br> BSE UMR-CNRS 6060, <br>
+          Université de Bordeaux, <br> 16 Avenue Léon Duguit, <br> 33608
+          PESSAC CEDEX, FRANCE. <br> <a
+          href="mailto:arnaud.natal@u-bordeaux.fr">arnaud.natal@u-bordeaux.fr</a></p>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="container-flex min-vh-100 d-block d-lg-none d-xl-none">
+    <div class="container d-block d-lg-none d-xl-none">
       <div class="d-flex flex-row justify-content-center">
         <div class="d-flex flex-col">
           <div class="mx-auto">
@@ -799,24 +826,24 @@
               <div class="col-8 p-1 text-center">
                 <div class="list-group">
                                     <a href=vitae.html>
-                    <button type="button" class="list-group-item list-group-item-action my-1 rounded">
+                    <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #f5e9dd; color: black;border-color: black;">
                       CV
                     </button>
                   </a>
                                     <a href=research.html>
-                    <button type="button" class="list-group-item list-group-item-action my-1 rounded">
+                    <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #f5e9dd; color: black;border-color: black;">
                       Research
                     </button>
                   </a>
                                     <a href=networks.html>
-                    <button type="button" class="list-group-item list-group-item-action my-1 rounded">
+                    <button type="button" class="list-group-item list-group-item-action my-1 rounded" style="background-color: #f5e9dd; color: black;border-color: black;">
                       Networks
                     </button>
                   </a>
                                   </div>
               </div>
             </div>
-            <div class="p pt-4 px-5">
+            <div class="mt-4 mb-5 mx-2">
               <div id="welcome-to-my-page" class="section level3">
               <h3>Welcome to my page!</h3>
               <p>I am a Ph.D. student at the Economics departement (<a
@@ -848,10 +875,10 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 
-      <!--radix_placeholder_site_after_body-->
-      <!--/radix_placeholder_site_after_body-->
-      <!--radix_placeholder_navigation_after_body-->
-      <!--/radix_placeholder_navigation_after_body-->
-  
+          <!--radix_placeholder_site_after_body-->
+          <!--/radix_placeholder_site_after_body-->
+          <!--radix_placeholder_navigation_after_body-->
+          <!--/radix_placeholder_navigation_after_body-->
+    
   </body>
 </html>

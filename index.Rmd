@@ -3,8 +3,8 @@ title: "Arnaud Natal"
 description: |
   arnaud.natal@u-bordeaux.fr
 image: "images/Arnaud.jpg"
-color1: "#403b2f"
-color2: "#403b2f"
+color1: "#ffffff"
+color2: "#fffaf0"
 angle: 180
 links:
   - label: CV
@@ -15,7 +15,7 @@ links:
     url: "networks.html"
 site: distill::distill_website
 output:
-  postcards::trestles
+  postcards::solana
 #solana
 #jolla  
 #trestles

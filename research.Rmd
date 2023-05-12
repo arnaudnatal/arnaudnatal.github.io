@@ -13,13 +13,13 @@ output:
 
 
 
-### Publications in peer-reviewed journals
+## Publications in peer-reviewed journals
 
 1. Locus of Control, Social Identity, and Indebtedness in South India. *Revue d'Économie du Développement*, with C.J. Nordman. (2023).
 1. Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49, with I. Guérin, S. Michiels, C.J. Nordman, & G. Venkatasubramanian, G. (2022).  Full article available [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
 
 
-### In progress
+## In progress
 
 1. *Psychology of Debt in Rural Tamil Nadu, India*, with C.J. Nordman.
 1. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India*, with C.J. Nordman.
@@ -35,18 +35,16 @@ output:
 
 
 
-### Data
+## Data
 
 #### Network Employment dEbt, Mobilities and Skills in south Indian Survey (NEEMSIS)
 
 NEEMSIS is a socio-economic panel survey conducted in rural Tamil Nadu with two data points: 2016-17 and 2020-21. The NEEMSIS survey aim at understanding the links between labour, skills, social and migration dynamics and social networks formation in India. It explores how the formation of skills and social networks, especially those defined at the community and individual levels, influence observed inequalities in individuals’ trajectories in terms of social status (class, caste, gender, ethnicity, religion), employment and migration. This includes the investigation of various forces at play, spanning from the role of social structure (norms and institutions), the development and use of social networks, to the formation of cognitive and non-cognitive skills.
-
-You can find more information on the [NEEMSIS survey website](https://neemsis.hypotheses.org/).
+You can find more information on the [NEEMSIS website](https://neemsis.hypotheses.org/).
 
 #### RUral Microfinance and Employment survey (RUME)
 
 RUME survey is a socio-economic survey conducted in rural Tamil Nadu in 2010, in 10 villages and 405 households. The main objective was to explore the linkages between rural finance and rural employment – including diversification and migration – with a view to contributing to the ongoing discussions and interventions in the fields of rural development and poverty and vulnerability reduction.
-
 You can find more information on the [RUME website](https://odriis.hypotheses.org/rume).
 
 
