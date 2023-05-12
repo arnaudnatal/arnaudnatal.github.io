@@ -60,13 +60,6 @@ a:hover {
 
 
 
-
-
-
-
-
-
-
 /*-- DESCRIPTION FONTSIZE --*/
 d-title p {
     font-size: 16px;
@@ -116,14 +109,14 @@ d-article h3 {
   --title-size:       25px;
   --text-color:       #509744;
   --text-size:        20px;
-  --hover-color:      #faf9f6;
+  --hover-color:      #C5663F;
   --bkgd-color:       #faf9f6;
 }
 
 .distill-site-footer {
   --text-color:       #403b2f;
   --text-size:        15px;
-  --hover-color:      #faf9f6;
+  --hover-color:      #C5663F;
   --bkgd-color:       #faf9f6;
 }
 
