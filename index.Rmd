@@ -26,8 +26,8 @@ output:
 ### Welcome to my page!
 
 
-I am a Ph.D. student at the Economics departement ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France, and affiliated to the the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India.
-I am also involved in the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org) (ODRIIS) and I am a member of [AFEDEV](https://afedev.fr/).
+I am a Ph.D. student at the Economics departement ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France, and affiliated to the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India.
+I am also involved in the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org) (ODRIIS) and I am a member of the [AFEDEV](https://afedev.fr/).
 
 I am in India until August 2023.
 
