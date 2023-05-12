@@ -4,16 +4,18 @@ description: |
 
 output:
   distill::distill_article:
-    toc: true
+    toc: false
     toc_depth: 3
 ---
 
-**Contact:** [arnaud.natal@u-bordeaux.fr](mailto:arnaud.natal@u-bordeaux.fr)
 
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20"> [0000-0003-1301-2281](https://www.orcid.org/0000-0003-1301-2281)
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20"> [Arnaud-Natal](https://www.researchgate.net/profile/Arnaud-Natal)
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20"> [arnaudnatal](https://www.github.com/arnaudnatal)
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20"> [pna744](https://ideas.repec.org/f/pna744.html)
+I am present on many academic platforms:
+
+* | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" width="20" height="20"> [Google Scholar](https://scholar.google.com/citations?user=TkRH7poAAAAJ&hl)
+* | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20"> [ORCID](https://www.orcid.org/0000-0003-1301-2281)
+* | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20"> [Research Gate](https://www.researchgate.net/profile/Arnaud-Natal)
+* | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20"> [GitHub](https://www.github.com/arnaudnatal)
+* | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20"> [Repec](https://ideas.repec.org/f/pna744.html)
 
 
 
@@ -21,6 +23,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 
 # | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/openedition.svg" width="20" height="20"> [neemsis.hypotheses.org/team/arnaud-natal](https://www.neemsis.hypotheses.org/team/arnaud-natal) 
+
+# | <imr src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/hal.svg" width="20" height="20"> [Arnaud Natal]()
 
 
 ```
