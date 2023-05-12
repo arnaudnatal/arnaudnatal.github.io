@@ -17,7 +17,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat');
 
 body {
-  background-color: #ffffff ;
+  background-color: #faf9f6 ;
 }
 
 
@@ -40,6 +40,31 @@ html {
   --body-font:       "Montserrat", serif;
   --navbar-font:     "Montserrat", sans-serif;  /* websites + blogs only */
 }
+
+
+
+/*-- HYPERLINK COLOR --*/
+a:link {
+  color: #509744;
+  text-decoration: none;
+}
+a:visited {
+  color: #A4CC4C;
+  text-decoration: none;
+}
+a:hover {
+  color: #C5663F;
+  text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
 
 
 /*-- DESCRIPTION FONTSIZE --*/
@@ -65,9 +90,9 @@ d-article h3 {
 /*-- ARTICLE METADATA --*/
 .d-byline {
   --heading-size:    16px;
-  --heading-color:   #ffffff;
+  --heading-color:   #faf9f6;
   --body-size:       14px;
-  --body-color:      #ffffff;
+  --body-color:      #faf9f6;
 }
 
 /*-- ARTICLE TABLE OF CONTENTS --*/
@@ -79,9 +104,9 @@ d-article h3 {
 /*-- ARTICLE APPENDIX --*/
 .d-appendix {
   --heading-size:    14px;
-  --heading-color:   #ffffff;
+  --heading-color:   #faf9f6;
   --text-size:       12px;
-  --text-color:      #ffffff;
+  --text-color:      #faf9f6;
 }
 
 /*-- WEBSITE HEADER + FOOTER --*/
@@ -89,17 +114,17 @@ d-article h3 {
 
 .distill-site-header {
   --title-size:       25px;
-  --text-color:       #ffffff;
+  --text-color:       #509744;
   --text-size:        20px;
-  --hover-color:      white;
-  --bkgd-color:       #b4ca81;
+  --hover-color:      #faf9f6;
+  --bkgd-color:       #faf9f6;
 }
 
 .distill-site-footer {
-  --text-color:       #ffffff;
+  --text-color:       #403b2f;
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #b4ca81;
+  --hover-color:      #faf9f6;
+  --bkgd-color:       #faf9f6;
 }
 
 /*-- Additional custom styles --*/

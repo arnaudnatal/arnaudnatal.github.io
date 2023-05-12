@@ -487,7 +487,7 @@
           @import url('https://fonts.googleapis.com/css2?family=Montserrat');
 
           body {
-            background-color: #ffffff ;
+            background-color: #faf9f6 ;
           }
 
 
@@ -510,6 +510,31 @@
             --body-font:       "Montserrat", serif;
             --navbar-font:     "Montserrat", sans-serif;  /* websites + blogs only */
           }
+
+
+
+          /*-- HYPERLINK COLOR --*/
+          a:link {
+            color: #509744;
+            text-decoration: none;
+          }
+          a:visited {
+            color: #A4CC4C;
+            text-decoration: none;
+          }
+          a:hover {
+            color: #C5663F;
+            text-decoration: none;
+
+          }
+
+
+
+
+
+
+
+
 
 
           /*-- DESCRIPTION FONTSIZE --*/
@@ -535,9 +560,9 @@
           /*-- ARTICLE METADATA --*/
           .d-byline {
             --heading-size:    16px;
-            --heading-color:   #ffffff;
+            --heading-color:   #faf9f6;
             --body-size:       14px;
-            --body-color:      #ffffff;
+            --body-color:      #faf9f6;
           }
 
           /*-- ARTICLE TABLE OF CONTENTS --*/
@@ -549,9 +574,9 @@
           /*-- ARTICLE APPENDIX --*/
           .d-appendix {
             --heading-size:    14px;
-            --heading-color:   #ffffff;
+            --heading-color:   #faf9f6;
             --text-size:       12px;
-            --text-color:      #ffffff;
+            --text-color:      #faf9f6;
           }
 
           /*-- WEBSITE HEADER + FOOTER --*/
@@ -559,17 +584,17 @@
 
           .distill-site-header {
             --title-size:       25px;
-            --text-color:       #ffffff;
+            --text-color:       #509744;
             --text-size:        20px;
-            --hover-color:      white;
-            --bkgd-color:       #b4ca81;
+            --hover-color:      #faf9f6;
+            --bkgd-color:       #faf9f6;
           }
 
           .distill-site-footer {
-            --text-color:       #ffffff;
+            --text-color:       #403b2f;
             --text-size:        15px;
-            --hover-color:      white;
-            --bkgd-color:       #b4ca81;
+            --hover-color:      #faf9f6;
+            --bkgd-color:       #faf9f6;
           }
 
           /*-- Additional custom styles --*/
@@ -738,9 +763,12 @@
           <header class="header header--fixed" role="banner">
           <nav class="distill-site-nav distill-site-header">
           <div class="nav-left">
-          <a href="index.html" class="title">Arnaud Natal</a>
+          <a href="index.html" class="title">Home</a>
           </div>
           <div class="nav-right">
+          <a href="https://github.com/arnaudnatal" aria-label="Link to source">
+          <i class="fab fa-github" aria-hidden="true"></i>
+          </a>
           <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
           </div>
           </nav>
@@ -878,7 +906,12 @@
           <!--radix_placeholder_site_after_body-->
           <!--/radix_placeholder_site_after_body-->
           <!--radix_placeholder_navigation_after_body-->
+          <div class="distill-site-nav distill-site-footer">
+          <p style="text-align: center;">Created with the <a href="https://cran.r-project.org/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/r-project.svg" width="15" height="15">
+          </a> <a href="https://github.com/rstudio/distill">distill</a> package and <a href="https://posit.co/">RStudio</a>. Freely hosted on <a href="https://github.com/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="15" height="15"></a>.<br>Author: <a href="https://arnaudnatal.github.io/">Arnaud Natal</a>. Last updated on May, 2023.</p>
+          </div>
           <!--/radix_placeholder_navigation_after_body-->
+
     
   </body>
 </html>

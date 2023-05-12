@@ -87,22 +87,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Arnaud Natal: Research</title>
+  <title>Home: Research</title>
 
   <meta property="description" itemprop="description" content="My research mobilises statistical tools to analyse the financial behaviour, labour and cognition of households in rural South India. &lt;br&gt; &#10;I pay particular attention to the quality of the data, the transparency of the analyses and the ethics of research more generally. &lt;br&gt;&#10;Also, I am involved in the [NEEMSIS](https://neemsis.hypotheses.org/) data collection."/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Arnaud Natal: Research"/>
+  <meta property="og:title" content="Home: Research"/>
   <meta property="og:type" content="article"/>
   <meta property="og:description" content="My research mobilises statistical tools to analyse the financial behaviour, labour and cognition of households in rural South India. &lt;br&gt; &#10;I pay particular attention to the quality of the data, the transparency of the analyses and the ethics of research more generally. &lt;br&gt;&#10;Also, I am involved in the [NEEMSIS](https://neemsis.hypotheses.org/) data collection."/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="Arnaud Natal"/>
+  <meta property="og:site_name" content="Home"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Arnaud Natal: Research"/>
+  <meta property="twitter:title" content="Home: Research"/>
   <meta property="twitter:description" content="My research mobilises statistical tools to analyse the financial behaviour, labour and cognition of households in rural South India. &lt;br&gt; &#10;I pay particular attention to the quality of the data, the transparency of the analyses and the ethics of research more generally. &lt;br&gt;&#10;Also, I am involved in the [NEEMSIS](https://neemsis.hypotheses.org/) data collection."/>
 
   <!--/radix_placeholder_meta_tags-->
@@ -1874,7 +1874,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css2?family=Montserrat');
 
   body {
-    background-color: #ffffff ;
+    background-color: #faf9f6 ;
   }
 
 
@@ -1897,6 +1897,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --body-font:       "Montserrat", serif;
     --navbar-font:     "Montserrat", sans-serif;  /* websites + blogs only */
   }
+
+
+
+  /*-- HYPERLINK COLOR --*/
+  a:link {
+    color: #509744;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #A4CC4C;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #C5663F;
+    text-decoration: none;
+
+  }
+
+
+
+
+
+
+
+
 
 
   /*-- DESCRIPTION FONTSIZE --*/
@@ -1922,9 +1947,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- ARTICLE METADATA --*/
   .d-byline {
     --heading-size:    16px;
-    --heading-color:   #ffffff;
+    --heading-color:   #faf9f6;
     --body-size:       14px;
-    --body-color:      #ffffff;
+    --body-color:      #faf9f6;
   }
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
@@ -1936,9 +1961,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- ARTICLE APPENDIX --*/
   .d-appendix {
     --heading-size:    14px;
-    --heading-color:   #ffffff;
+    --heading-color:   #faf9f6;
     --text-size:       12px;
-    --text-color:      #ffffff;
+    --text-color:      #faf9f6;
   }
 
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -1946,17 +1971,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   .distill-site-header {
     --title-size:       25px;
-    --text-color:       #ffffff;
+    --text-color:       #509744;
     --text-size:        20px;
-    --hover-color:      white;
-    --bkgd-color:       #b4ca81;
+    --hover-color:      #faf9f6;
+    --bkgd-color:       #faf9f6;
   }
 
   .distill-site-footer {
-    --text-color:       #ffffff;
+    --text-color:       #403b2f;
     --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #b4ca81;
+    --hover-color:      #faf9f6;
+    --bkgd-color:       #faf9f6;
   }
 
   /*-- Additional custom styles --*/
@@ -2151,9 +2176,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a href="index.html" class="title">Arnaud Natal</a>
+<a href="index.html" class="title">Home</a>
 </div>
 <div class="nav-right">
+<a href="https://github.com/arnaudnatal" aria-label="Link to source">
+<i class="fab fa-github" aria-hidden="true"></i>
+</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2263,7 +2291,12 @@ class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"><
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
+<div class="distill-site-nav distill-site-footer">
+<p style="text-align: center;">Created with the <a href="https://cran.r-project.org/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/r-project.svg" width="15" height="15">
+</a> <a href="https://github.com/rstudio/distill">distill</a> package and <a href="https://posit.co/">RStudio</a>. Freely hosted on <a href="https://github.com/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="15" height="15"></a>.<br>Author: <a href="https://arnaudnatal.github.io/">Arnaud Natal</a>. Last updated on May, 2023.</p>
+</div>
 <!--/radix_placeholder_navigation_after_body-->
+
 
 </body>
 
