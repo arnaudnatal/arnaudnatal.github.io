@@ -11,20 +11,22 @@ output:
 
 I am present on many academic platforms:
 
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" width="20" height="20"> [Google Scholar](https://scholar.google.com/citations?user=TkRH7poAAAAJ&hl) <br>
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20"> [ORCID](https://www.orcid.org/0000-0003-1301-2281) <br>
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20"> [Research Gate](https://www.researchgate.net/profile/Arnaud-Natal) <br>
-| <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20"> [GitHub](https://www.github.com/arnaudnatal) <br>
-| <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20"> [Repec](https://ideas.repec.org/f/pna744.html) <br>
+[Google Scholar](https://scholar.google.com/citations?user=TkRH7poAAAAJ&hl) | [ORCID](https://www.orcid.org/0000-0003-1301-2281) | [Research Gate](https://www.researchgate.net/profile/Arnaud-Natal) | [GitHub](https://www.github.com/arnaudnatal) | [Repec](https://ideas.repec.org/f/pna744.html)
 
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-# | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/openedition.svg" width="20" height="20"> [neemsis.hypotheses.org/team/arnaud-natal](https://www.neemsis.hypotheses.org/team/arnaud-natal) 
 
-# | <imr src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/hal.svg" width="20" height="20"> [Arnaud Natal]()
+
+# | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg" width="20" height="20"> [Google Scholar](https://scholar.google.com/citations?user=TkRH7poAAAAJ&hl) <br>
+# | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg" width="20" height="20"> [ORCID](https://www.orcid.org/0000-0003-1301-2281) <br>
+# | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/researchgate.svg" width="20" height="20"> [Research Gate](https://www.researchgate.net/profile/Arnaud-Natal) <br>
+# | <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width="20" height="20"> [GitHub](https://www.github.com/arnaudnatal) <br>
+# | <img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/ideas-repec.svg" width="20" height="20"> [Repec](https://ideas.repec.org/f/pna744.html) <br>
+
+
 
 
 ```

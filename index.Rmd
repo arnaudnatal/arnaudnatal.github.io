@@ -15,7 +15,7 @@ links:
     url: "networks.html"
 site: distill::distill_website
 output:
-  postcards::solana
+  postcards::trestles
 #solana
 #jolla  
 #trestles
