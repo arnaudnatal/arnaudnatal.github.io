@@ -11,8 +11,8 @@ links:
     url: "vitae.html"
   - label: Research
     url: "research.html"
-  - label: Networks
-    url: "networks.html"
+#  - label: Networks
+#    url: "networks.html"
 site: distill::distill_website
 output:
   postcards::trestles
@@ -32,6 +32,9 @@ I am also involved in the [Observatory of Rural Dynamics and Inequalities in Sou
 I am in India until August 2023.
 
 My main field of interest is development economics, and I work on topics related to household indebtedness, labour, and cognition.
+
+**Networks:** <br>
+[Google Scholar](https://scholar.google.com/citations?user=TkRH7poAAAAJ&hl) | [ORCID](https://www.orcid.org/0000-0003-1301-2281) | [Research Gate](https://www.researchgate.net/profile/Arnaud-Natal) | [GitHub](https://www.github.com/arnaudnatal) | [Repec](https://ideas.repec.org/f/pna744.html)
 
 **Contact:** <br>
 BSE UMR-CNRS 6060, <br>
