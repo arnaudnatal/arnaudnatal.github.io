@@ -18,7 +18,7 @@ output:
 ## Professional experience
 
 **Research assistant** | Institut de Recherche pour le Développement, India | 2022 - 2023 <br>
-**Temporary lecturer and research assistant** | University of Bordeaux, France | 2021 - 2022 <br>
+**Temporary lecturer (ATER)** | University of Bordeaux, France | 2021 - 2022 <br>
 **Research assistant** | French Institute of Pondicherry, India | 2019 <br>
 **Survey coordinator** | NGO FAGAD, Togo | 2018
 
@@ -106,8 +106,9 @@ You can find more information on the [RUME website](https://odriis.hypotheses.or
 
 **ICDE conference**, Clermont Auvergne University, France | 2022 <br>
 **Challineq conference**, Aix-Marseille University, France | 2022 <br>
-**DIAL seminar**, LEDA-DIAL, France | 2022 <br>
-
+**LEDa-DIAL seminar**, LEDa-DIAL, France | 2022 <br>
+**LEDa-DIAL/BSE workshop**, University of Bordeaux, France | 2023 <br>
+**XXXVIII ATM conference** (declined), University of Bordeaux, France | 2023 <br>
 
 
 
