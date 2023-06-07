@@ -109,8 +109,8 @@ You can find more information on the [RUME website](https://odriis.hypotheses.or
 **LEDa-DIAL seminar**, LEDa-DIAL, France | 2022 <br>
 **LEDa-DIAL/BSE workshop**, University of Bordeaux, France | 2023 <br>
 **XXXVIII ATM conference** (declined), University of Bordeaux, France | 2023 <br>
-
-
+<!---**14th Biennal Conference of ACFEA** (declined), Japan | 2023 <br> -->
+<!---**1st Annual Conference of the Financial Analytics Research Society** (declined), Jilin University, China | 2023 <br> -->
 
 
 
