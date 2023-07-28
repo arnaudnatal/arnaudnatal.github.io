@@ -17,10 +17,10 @@ output:
 
 ## Professional experience
 
-**Research assistant** | Institut de Recherche pour le Développement, India | 2022 - 2023 <br>
-**Temporary lecturer** | University of Bordeaux, France | 2020 - 2022 <br>
-**Research assistant** | French Institute of Pondicherry, India | 2019 <br>
-**Survey coordinator** | NGO FAGAD, Togo | 2018
+Research assistant | Institut de Recherche pour le Développement, India | 2022 - 2023 <br>
+Temporary lecturer | University of Bordeaux, France | 2020 - 2022 <br>
+Research assistant | French Institute of Pondicherry, India | 2019 <br>
+Survey coordinator | NGO FAGAD, Togo | 2018
 
 
 
@@ -30,8 +30,8 @@ output:
 
 ## Affiliations
 
-**French Institute of Pondicherry** | 2022 - .  <br>
-**Bordeaux School of Economics** | 2019 - .  <br>
+French Institute of Pondicherry | 2022 - .  <br>
+Bordeaux School of Economics | 2019 - .  <br>
 
 
 
@@ -110,10 +110,10 @@ You can find more information on the [RUME website](https://odriis.hypotheses.or
 
 ## Conferences
 
-**ICDE conference**, Clermont Auvergne University, France | 2022 <br>
-**Challineq conference**, Aix-Marseille University, France | 2022 <br>
-**LEDa-DIAL seminar**, LEDa-DIAL, France | 2022 <br>
-**LEDa-DIAL/BSE workshop**, University of Bordeaux, France | 2023 <br>
+ICDE conference, Clermont Auvergne University, France | 2022 <br>
+Challineq conference, Aix-Marseille University, France | 2022 <br>
+LEDa-DIAL seminar, LEDa-DIAL, France | 2022 <br>
+LEDa-DIAL/BSE workshop, University of Bordeaux, France | 2023 <br>
 <!---**XXXVIII ATM conference** (declined), University of Bordeaux, France | 2023 <br> -->
 <!---**14th Biennal Conference of ACFEA** (declined), Japan | 2023 <br> -->
 <!---**1st Annual Conference of the Financial Analytics Research Society** (declined), Jilin University, China | 2023 <br> -->
@@ -125,14 +125,14 @@ You can find more information on the [RUME website](https://odriis.hypotheses.or
 
 ### Tutorials
 
-**Econometrics with R** (75h), B.A. level, University of Bordeaux | 2021 - 2022 <br>
-**Programming with Python** (21h), B.A. level, University of Bordeaux | 2021 - 2022 <br>
-**Microeconomics** (13.5h), B.A. level, University of Bordeaux | 2020 - 2021 <br>
-**Statistics** (54h), B.A. level, University of Bordeaux | 2020 - 2021 <br>
+Econometrics with R (75h), B.A. level, University of Bordeaux | 2021 - 2022 <br>
+Programming with Python (21h), B.A. level, University of Bordeaux | 2021 - 2022 <br>
+Microeconomics (13.5h), B.A. level, University of Bordeaux | 2020 - 2021 <br>
+Statistics (54h), B.A. level, University of Bordeaux | 2020 - 2021 <br>
 
 ### Miscellaneous
 
-Trainer for the sixth **Social Sciences Winter School in Pondicherry** on the topic of *Rethinking inequalities* | 2022 <br>
+Trainer for the sixth Social Sciences Winter School in Pondicherry on the topic of *Rethinking inequalities* | 2022 <br>
 
 
 
@@ -143,11 +143,12 @@ Trainer for the sixth **Social Sciences Winter School in Pondicherry** on the to
 
 ## Activities
 
-**Co-organiser** of the internal seminar of the French Institute of Pondicherry | 2023 <br>
-**Administrator** of the [ODRIIS](https://odriis.hypotheses.org/) website | 2022 - . <br>
-**Administrator** of the [NEEMSIS](https://odriis.hypotheses.org/) website | 2022 - . <br>
-**Member** of the French Association of Development Economics ([AFEDEV](https://afedev.fr/)) | 2022 - . <br>
+Co-organiser of the internal seminar of the French Institute of Pondicherry | 2023 <br>
+Administrator of the [ODRIIS](https://odriis.hypotheses.org/) website | 2022 - . <br>
+Administrator of the [NEEMSIS](https://odriis.hypotheses.org/) website | 2022 - . <br>
+Member of the French Association of Development Economics ([AFEDEV](https://afedev.fr/)) | 2022 - . <br>
 
+**Referee:** *The World Bank Economic Review (x1).*
 
 
 
@@ -161,23 +162,23 @@ Trainer for the sixth **Social Sciences Winter School in Pondicherry** on the to
 
 ### Statistics
 
-Excellent knowledge of **Stata** for statistical and econometric analysis as well as for data cleaning and management.
-Fairly proficient in **R** and beginner in **Python**.
+Excellent knowledge of *Stata* for statistical and econometric analysis as well as for data cleaning and management.
+Fairly proficient in *R* and beginner in *Python*.
 
 ### Typesetting
 
-Very good knowledge of **TeX** and **Markdown**.
+Very good knowledge of *TeX* and *Markdown*.
 
 ### Miscellaneous
 
-Good knowledge of **XLSForm** to code questionnaires and good knowledge of SurveyCTO and Kobotoolbox for deployment.
-Proficient in **Gephi** for the graphic representation of networks.
-Beginners in geographic information systems, with **QGIS**.
-Good knowledge of the **Office** suite.
+Good knowledge of *XLSForm* to code questionnaires and good knowledge of *SurveyCTO* and *Kobotoolbox* for deployment.
+Proficient in *Gephi* for the graphic representation of networks.
+Beginners in geographic information systems, with *QGIS*.
+Good knowledge of the *Office* suite.
 
 ### Languages
 
-**French** is my mother tongue and I have an advanced intermediate level in **English**.
+French is my mother tongue and I have an advanced intermediate level in English.
 
 
 ```{r setup, include=FALSE}
