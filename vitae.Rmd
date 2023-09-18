@@ -69,12 +69,13 @@ Bordeaux School of Economics | 2019 - .  <br>
 
 ### In progress
 
-1. *Psychology of Debt in Rural Tamil Nadu, India*, with C.J. Nordman.
-1. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India*, with C.J. Nordman.
-1. *Measuring household financial vulnerability in a poor developing area context: A new index and an application from rural South India*.
-1. *Household Financial Vulnerability and Labour Supply in Rural South India*.
+1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
+1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
+1. *Hard Times: Measure and Analysis of Household's Financial Vulnerability in Rural South India*.
+1. *She Works Hard for the Money: Financial Vulnerability and Labour Supply in Rural South India*.
 1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India*, with I. Guérin, C.J. Nordman & G. Venkatasubramanian.
 1. *Ten years of labour, migration and debt in India: Insights from original longitudinal household surveys in Tamil Nadu*, with M. Di Santolo, I. Guérin, S. Michiels, C. Mouchel, C.J. Nordman & G. Venkatasubramanian.
+1. *Debt Traps? A multilevel analysis in South India*. 
 
 
 
@@ -114,6 +115,7 @@ ICDE conference, Clermont Auvergne University, France | 2022 <br>
 Challineq conference, Aix-Marseille University, France | 2022 <br>
 LEDa-DIAL seminar, LEDa-DIAL, France | 2022 <br>
 LEDa-DIAL/BSE workshop, University of Bordeaux, France | 2023 <br>
+Monday Colloquium, French Institute of Pondicherry, India | 2023 <br>
 <!---**XXXVIII ATM conference** (declined), University of Bordeaux, France | 2023 <br> -->
 <!---**14th Biennal Conference of ACFEA** (declined), Japan | 2023 <br> -->
 <!---**1st Annual Conference of the Financial Analytics Research Society** (declined), Jilin University, China | 2023 <br> -->
@@ -148,7 +150,7 @@ Administrator of the [ODRIIS](https://odriis.hypotheses.org/) website | 2022 - .
 Administrator of the [NEEMSIS](https://odriis.hypotheses.org/) website | 2022 - . <br>
 Member of the French Association of Development Economics ([AFEDEV](https://afedev.fr/)) | 2022 - . <br>
 
-**Referee:** *The World Bank Economic Review (x1).*
+**Referee:** *The World Bank Economic Review*.
 
 
 

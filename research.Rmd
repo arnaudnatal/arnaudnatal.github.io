@@ -21,12 +21,13 @@ output:
 
 ## In progress
 
-1. *Psychology of Debt in Rural Tamil Nadu, India*, with C.J. Nordman.
-1. *Measure and (In)stability Over Time of Cognitive Skills and Personality Traits in Rural India*, with C.J. Nordman.
-1. *Measuring household financial vulnerability in a poor developing area context: A new index and an application from rural South India*.
-1. *Household Financial Vulnerability and Labour Supply in Rural South India*.
+1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
+1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
+1. *Hard Times: Measure and Analysis of Household's Financial Vulnerability in Rural South India*.
+1. *She Works Hard for the Money: Financial Vulnerability and Labour Supply in Rural South India*.
 1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India*, with I. Guérin, C.J. Nordman & G. Venkatasubramanian.
 1. *Ten years of labour, migration and debt in India: Insights from original longitudinal household surveys in Tamil Nadu*, with M. Di Santolo, I. Guérin, S. Michiels, C. Mouchel, C.J. Nordman & G. Venkatasubramanian.
+1. *Debt Traps? A multilevel analysis in South India*. 
 
 
 
