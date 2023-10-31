@@ -3,7 +3,7 @@ title: "Research"
 description: |
    My research mobilises statistical tools to analyse the financial behaviour, labour and cognition of households in rural South India. <br> 
    I pay particular attention to the quality of the data, the transparency of the analyses and the ethics of research more generally. <br>
-   Also, I am involved in the [NEEMSIS](https://neemsis.hypotheses.org/) data collection.
+   I am also involved in the [NEEMSIS](https://neemsis.hypotheses.org/) data collection.
 
 output:
   distill::distill_article:
@@ -12,22 +12,26 @@ output:
 ---
 
 
+## Working papers
+
+1. *Ten years of labour, migration and debt in India: Insights from original longitudinal household surveys in Tamil Nadu*, with M. Di Santolo, I. Guérin, S. Michiels, C. Mouchel, C.J. Nordman & G. Venkatasubramanian.
+1. *Hard Times: Measure and Analysis of Household's Financial Vulnerability in Rural South India*.
+1. *She Works Hard for the Money: Financial Vulnerability and Labour Supply in Rural South India*.
+1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
+1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
+
+
 
 ## Publications in peer-reviewed journals
 
-1. Locus of Control, Social Identity, and Indebtedness in South India. *Revue d'Économie du Développement, 31*(2-3), 95-101, with C.J. Nordman. (2022).
 1. Surviving Debt, Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49, with I. Guérin, S. Michiels, C.J. Nordman, & G. Venkatasubramanian, G. (2022).  Full article available [here.](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)
+1. Locus of Control, Social Identity, and Indebtedness in South India. *Revue d'Économie du Développement, 31*(2-3), 95-101, with C.J. Nordman. (2022).
 
 
 ## In progress
 
-1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
-1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
-1. *Hard Times: Measure and Analysis of Household's Financial Vulnerability in Rural South India*.
-1. *She Works Hard for the Money: Financial Vulnerability and Labour Supply in Rural South India*.
 1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India*, with I. Guérin, C.J. Nordman & G. Venkatasubramanian.
-1. *Ten years of labour, migration and debt in India: Insights from original longitudinal household surveys in Tamil Nadu*, with M. Di Santolo, I. Guérin, S. Michiels, C. Mouchel, C.J. Nordman & G. Venkatasubramanian.
-1. *Debt Traps? A multilevel analysis in South India*. 
+1. *Individual Debt Traps: Insights from Rural Tamil Nadu*. 
 
 
 
