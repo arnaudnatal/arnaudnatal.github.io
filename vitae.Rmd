@@ -127,6 +127,8 @@ Monday Colloquium, French Institute of Pondicherry, India | 2023 <br>
 
 ### Tutorials
 
+Econometrics with R (40.5h), B.A. level, University of Bordeaux | 2023 - 2024 <br>
+Programming with Excel (60h), B.A. level, University of Bordeaux | 2023 - 2024 <br>
 Econometrics with R (75h), B.A. level, University of Bordeaux | 2021 - 2022 <br>
 Programming with Python (21h), B.A. level, University of Bordeaux | 2021 - 2022 <br>
 Microeconomics (13.5h), B.A. level, University of Bordeaux | 2020 - 2021 <br>
