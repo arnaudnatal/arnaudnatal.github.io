@@ -8,7 +8,7 @@ color2: "#fffaf0"
 angle: 180
 links:
   - label: CV
-    url: "https://www.dropbox.com/scl/fi/5033ixgbjhhdw19dmc5dx/CV_Natal_oct2023.pdf?rlkey=hb6yx6v87nia6zks2sezhxc0r&dl=0"
+    url: "https://www.dropbox.com/scl/fi/lk6577rdp4lyolcjenen9/CV.pdf?rlkey=8drni6xu6e7icmv3v53b92dzn&dl=0"
   - label: Research
     url: "research.html"
 #  - label: Networks
