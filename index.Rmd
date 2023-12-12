@@ -26,7 +26,10 @@ output:
 ### Welcome to my page!
 
 
-I am a PhD student at the Economics department ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France and affiliated with the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India.
+I am a temporary lecturer and research assistant at the Economics department ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France and affiliated with the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India.
+
+I obtained my PhD in economics from the University of Bordeaux in December 2023.
+
 I am also involved in the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org) (ODRIIS), and I am a member of the [AFEDEV](https://afedev.fr/).
 
 Data I am working on (from collection to analysis) are now freely available on [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/odriis).
