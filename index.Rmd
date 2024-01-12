@@ -8,7 +8,7 @@ color2: "#fffaf0"
 angle: 180
 links:
   - label: CV
-    url: "https://www.dropbox.com/scl/fi/57vsnuycuvg4lz2836qbr/CV.pdf?rlkey=t670i6ny6ifhfsz0v0hdiywzb&dl=0"
+    url: "https://www.dropbox.com/scl/fo/nrhsbs7egyhipsxexkkxx/h?rlkey=y8gtfg2rbun7z7eiwfvjmbp5q&dl=0"
   - label: Research
     url: "research.html"
 #  - label: Networks
@@ -32,7 +32,7 @@ I obtained my PhD in economics from the University of Bordeaux in December 2023.
 
 I am also involved in the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org) (ODRIIS), and I am a member of the [AFEDEV](https://afedev.fr/).
 
-Data I am working on (from collection to analysis) are now freely available on [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/odriis).
+[NEEMSIS](https://neemsis.hypotheses.org/) data I am working on (from collection to analysis) are now freely available on [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/odriis).
 
 My main field of interest is development economics, and I work on topics related to household indebtedness, labour, and cognition in rural India.
 
