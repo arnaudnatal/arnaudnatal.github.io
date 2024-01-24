@@ -25,16 +25,15 @@ output:
 
 ### Welcome to my page!
 
-
-I am a temporary lecturer and research assistant at the Economics department ([BSE]((https://www.bse.u-bordeaux.fr/))) of the University of Bordeaux in France and affiliated with the [French Institute of Pondicherry](https://www.ifpindia.org/) (IFP) in India.
+I am a temporary lecturer and research assistant at the [Economics department](https://www.bse.u-bordeaux.fr/) of the University of Bordeaux in France and affiliated with the [French Institute of Pondicherry](https://www.ifpindia.org/) in India.
 
 I obtained my PhD in economics from the University of Bordeaux in December 2023.
+My main field of interest is development economics, and I work on topics related to household indebtedness, labour, and cognition in rural South India.
 
-I am also involved in the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org) (ODRIIS), and I am a member of the [AFEDEV](https://afedev.fr/).
+I take part in the activities of the [Observatory of Rural Dynamics and Inequalities in South India](https://odriis.hypotheses.org), in particular by actively participating in all stages of the collection of longitudinal [NEEMSIS](https://neemsis.hypotheses.org/) household data.
 
-[NEEMSIS](https://neemsis.hypotheses.org/) data I am working on (from collection to analysis) are now freely available on [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/odriis).
 
-My main field of interest is development economics, and I work on topics related to household indebtedness, labour, and cognition in rural India.
+
 
 **Networks:** <br>
 [Google Scholar](https://scholar.google.com/citations?user=TkRH7poAAAAJ&hl) | [ORCID](https://www.orcid.org/0000-0003-1301-2281) | [Research Gate](https://www.researchgate.net/profile/Arnaud-Natal) | [GitHub](https://www.github.com/arnaudnatal) | [Repec](https://ideas.repec.org/f/pna744.html) | [IdHAL](https://cv.hal.science/arnaud-natal) | [Linkedin](https://www.linkedin.com/in/arnaud-natal/)
