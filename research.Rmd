@@ -18,21 +18,21 @@ I attach great importance to the quality of the data used, and in the interests 
 
 
 
-## Working papers
+## Submitted
 
-1. *Ten years of labour, migration and debt in India: Insights from original longitudinal household surveys in Tamil Nadu*, with M. Di Santolo, I. Guérin, S. Michiels, C. Mouchel, C.J. Nordman & G. Venkatasubramanian.
-
+1. *Ten years of labour, migration and debt in India: Insights from original longitudinal household surveys in Tamil Nadu* (R&R in *Economic & Political Weekly*), with M. Di Santolo, I. Guérin, S. Michiels, C. Mouchel, C.J. Nordman & G. Venkatasubramanian.
+1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India* (R&R in *Contemporary South Asia*), with I. Guérin, C.J. Nordman & G. Venkatasubramanian.
+1. *Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool*, with C.J. Nordman, G. Venkatasubramanian & I. Guérin.
+1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
+1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
 
 
 
 ## In progress
 
-1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India*, with I. Guérin, C.J. Nordman & G. Venkatasubramanian.
-1. *Individual Debt Traps: Insights from Rural Tamil Nadu*. 
+1. *Intra- and inter-household income inequalities: Trends and determinants over ten years in rural India*. 
 1. *Hard Times: Measure and Analysis of Household's Financial Vulnerability in Rural South India*.
 1. *She Works Hard for the Money: Financial Vulnerability and Labour Supply in Rural South India*.
-1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
-1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
 
 
 
@@ -44,10 +44,8 @@ I attach great importance to the quality of the data used, and in the interests 
 
 ## Technical reports
 
-
+1. *Rapport d’Enquête Création d’une revue d’articles sur des jeux de données Data Journal SHS*, Tech. rep. No. [hal-04541094](https://hal.science/hal-04541094), with L. Bizien, V. Cohoner, F. Edmond & P. Peraldi-Mittelette. (2024). MSH Lorraine
 1. *RUME (2010) Survey Manual*, Tech. rep. No. [hal-04153130](https://hal.science/hal-04153130), with I. Guérin, G. Venkatasubramanian, S. Michiels, & M. Roesch. (2023). IRD, IFP, and ODRIIS.
-1. *How to handle personality traits and cognitive skills variables in the NEEMSIS-1 (2016-17) survey wave?*, [NEEMSIS technical note No. 2](https://neemsis.hypotheses.org/resources/technical-notes#technote2), with A. Hilger. (2023). IRD, IFP, and ODRIIS.
-1. *RUME-NEEMSIS survey: How to Handle Panel Data?*, [NEEMSIS technical note No. 1](https://neemsis.hypotheses.org/resources/technical-notes#technote1). (2023). IRD, IFP, and ODRIIS.
 1. *NEEMSIS-2 Survey Manual*, Tech. rep. No. [hal-04207258](https://hal.science/hal-04207258), with C. J. Nordman, G. Venkatasubramanian, I. Guérin, S. Michiels, C. Mouchel, & M. Di Santolo. (2021). IRD, IFP, and ODRIIS. 
 
 
