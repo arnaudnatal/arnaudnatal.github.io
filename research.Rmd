@@ -7,15 +7,15 @@ output:
     toc_depth: 3
 ---
 
-My research agenda is centred around economic questions related to rural dynamics in developing countries, particularly financial behaviour, labour and cognition of households in rural South India.
+My research agenda is centred around economic questions related to rural dynamics in developing countries, particularly financial behaviour, labour, cognition, and inequalities in rural South India.
 The methods I use are determined by the research questions that arise but revolve around rigorous statistical analysis (e.g., econometrics, machine learning).
 I attach great importance to the quality of the data used, and in the interests of transparency and respect for ethical principles, all the R and Stata scripts developed to conduct the statistical and econometric analyses of my research work are freely accessible [here](https://github.com/arnaudnatal).
 
 ## Publications in peer-reviewed journals
 
-1. Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). Ten Years in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey [forthcoming]. *Economic & Political Weekly*.
-1. Natal, A., & Nordman, C. J. (2022). Locus of Control, Social Identity, and Indebtedness in South India. *Revue d’Économie du Développement, 31*(2-3), 95–101. https://doi.org/10.3917/edd.362.0095
-1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49.
+1. Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). Ten Years in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62-71. [[WP version available here »](https://dial.ird.fr/wp-content/uploads/2024/03/2024-02-NEEMSIS_data_context.pdf)]
+1. Natal, A., & Nordman, C. J. (2022). Locus of Control, Social Identity, and Indebtedness in South India. *Revue d’Économie du Développement, 31*(2-3), 95–101. DOI: 10.3917/edd.362.0095. [[Available here »](https://neemsis.hypotheses.org/files/2024/10/2022-RED-Debt_LOC.pdf)]
+1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. [[Available here »](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)]
 
 
 ## Submitted
