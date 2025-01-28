@@ -13,46 +13,46 @@ I attach great importance to the quality of the data used, and in the interests 
 
 ## Publications in peer-reviewed journals
 
-1. Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). Ten Years in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62-71. [[WP version available here »](https://dial.ird.fr/wp-content/uploads/2024/03/2024-02-NEEMSIS_data_context.pdf)]
-1. Natal, A., & Nordman, C. J. (2022). Locus of Control, Social Identity, and Indebtedness in South India. *Revue d’Économie du Développement, 31*(2-3), 95–101. DOI: 10.3917/edd.362.0095. [[Available here »](https://neemsis.hypotheses.org/files/2024/10/2022-RED-Debt_LOC.pdf)]
-1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. [[Available here »](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)]
+1. Natal, A., & Nordman, C.J. (2025).Psychology of Debt in Rural South India. *The Journal of Development Studies* (forthcoming). DOI: 10.1080/00220388.2025.2451871. [[WP version available here »](https://www.iza.org/en/publications/dp/17482/psychology-of-debt-in-rural-south-india)]
+1. Nordman, C.J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool. *Population* (forthcoming).
+1. Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C.J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62-71. [[WP version available here »](https://dial.ird.fr/wp-content/uploads/2024/03/2024-02-NEEMSIS_data_context.pdf)]
+1. Natal, A., & Nordman, C.J. (2022). Locus of Control, Social Identity, and Indebtedness in South India. *Revue d’Économie du Développement, 31*(2-3), 95–101. DOI: 10.3917/edd.362.0095. [[Available here »](https://neemsis.hypotheses.org/files/2024/10/2022-RED-Debt_LOC.pdf)]
+1. Guérin, I., Michiels, S., Natal, A., Nordman, C.J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. [[Available here »](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)]
 
 
 ## Submitted
 
-1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India* (R&R in *Contemporary South Asia*), with I. Guérin, C.J. Nordman & G. Venkatasubramanian.
-1. *Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): Presentation of a longitudinal data collection tool*, with C.J. Nordman, G. Venkatasubramanian & I. Guérin.
-1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
-1. *Psychology of Debt in Rural South India*, with C.J. Nordman.
-
+1. *The Political and Sexual Economies of Marriages: Two Decades of change in South-Arcot, South India* (R&R in *Contemporary South Asia*), with I. Guérin, C.J. Nordman, and G. Venkatasubramanian. [[WP version available here »](https://dial.ird.fr/wp-content/uploads/2024/07/2024-07-For_Money_Cant_Buy_Me_Love.pdf)]
+1. *She Works Hard for the Money: Debt Burden and Labour Supply in India*, with C.J. Nordman.
 
 
 ## In progress
 
-1. *Hard Times: Measure and Analysis of Household's Financial Vulnerability in Rural South India*.
-1. *Unveiling Inequality in Rural South India: A Decade of Household Wealth Imbalances*.
-1. *Unveiling Inequality in Rural South India: A Decade of Rising Inter- and Intra- Household Income Imbalances*.
-1. *Does She Work Hard for the Money? Debt Burden and Labour Supply in India*.
+1. *Debt Trap in Rural South India*.
+1. *Personality Traits and Social Networks in Rural India*, with D. Girollet.
+1. *Unveiling Inequality in Rural South India: A Decade of Rising Income and Wealth Imbalances*, with C.J. Nordman.
+1. *A Change is Gonna Come: Measures and Stability of Personality Traits in Rural South India*, with C.J. Nordman.
 
 
 
 ## Policy briefs
 
-1. *Why and how to measure household debt in informal economies?*, ODRIIS Policy brief No. 1, with I. Guérin & G. Venkatasubramanian. (2024). IRD, IFP, and ODRIIS.
-
+1. *The Urgent Need to Better Measure Household Debt*, with S. Michiels, I. Guérin, and T. Narring. (2025) [[Available here »](https://www.cadtm.org/The-Urgent-Need-to-Better-Measure-Household-Debt)]
+1. *Why and how to measure household debt in informal economies?*, with I. Guérin, and G. Venkatasubramanian. (2024). [[Available here »](https://hal.science/hal-04622836v1)]
 
 
 ## Technical reports
 
-1. *Rapport d’Enquête Création d’une revue d’articles sur des jeux de données Data Journal SHS*, Tech. rep. No. [hal-04541094](https://hal.science/hal-04541094), with L. Bizien, V. Cohoner, F. Edmond & P. Peraldi-Mittelette. (2024). MSH Lorraine
-1. *RUME (2010) Survey Manual*, Tech. rep. No. [hal-04153130](https://hal.science/hal-04153130), with I. Guérin, G. Venkatasubramanian, S. Michiels, & M. Roesch. (2023). IRD, IFP, and ODRIIS.
-1. *NEEMSIS-2 Survey Manual*, Tech. rep. No. [hal-04207258](https://hal.science/hal-04207258), with C. J. Nordman, G. Venkatasubramanian, I. Guérin, S. Michiels, C. Mouchel, & M. Di Santolo. (2021). IRD, IFP, and ODRIIS. 
+1. *Rapport d’Enquête Création d’une revue d’articles sur des jeux de données Data Journal SHS*, Tech. rep. No. [hal-04541094](https://hal.science/hal-04541094), with L. Bizien, V. Cohoner, F. Edmond, and P. Peraldi-Mittelette. (2024). MSH Lorraine
+1. *RUME (2010) Survey Manual*, Tech. rep. No. [hal-04153130](https://hal.science/hal-04153130), with I. Guérin, G. Venkatasubramanian, S. Michiels, and M. Roesch. (2023). IRD, IFP, and ODRIIS.
+1. *NEEMSIS-2 Survey Manual*, Tech. rep. No. [hal-04207258](https://hal.science/hal-04207258), with C.J. Nordman, G. Venkatasubramanian, I. Guérin, S. Michiels, C. Mouchel, and M. Di Santolo. (2021). IRD, IFP, and ODRIIS. 
 
 
 ## Data
 
-1. *NEEMSIS-1 wave data*, with C. J. Nordman, I. Guérin, G. Venkatasubramanian, S. Michiels, Y. Lanos, A. Hilger, S. Kumar, & A. Raj. (2023). Harvard Dataverse. DOI: [10.7910/DVN/KN3KFJ](https://doi.org/10.7910/DVN/KN3KFJ)
-1. *RUME survey data*, with I. Guérin, G. Venkatasubramanian, S. Michiels, & M. Roesch. (2023). Harvard Dataverse. DOI: [10.7910/DVN/2KVFXG](https://doi.org/10.7910/DVN/2KVFXG)
+1. *Network, Employment, dEbt, Mobility, and Skills in South India Survey (NEEMSIS-2, 2020-2021)*, with C.J. Nordman, G. Venkatasubramanian, I. Guérin, S. Michiels, C. Mouchel, and M. Di Santolo. (2025). DataSuds. DOI [10.23708/D7NADX](https://doi.org/10.23708/D7NADX) 
+1. *NEEMSIS-1 wave data*, with C.J. Nordman, I. Guérin, G. Venkatasubramanian, S. Michiels, Y. Lanos, A. Hilger, S. Kumar, and A. Raj. (2023). Harvard Dataverse. DOI: [10.7910/DVN/KN3KFJ](https://doi.org/10.7910/DVN/KN3KFJ)
+1. *RUME survey data*, with I. Guérin, G. Venkatasubramanian, S. Michiels, and M. Roesch. (2023). Harvard Dataverse. DOI: [10.7910/DVN/2KVFXG](https://doi.org/10.7910/DVN/2KVFXG)
 
 
 
