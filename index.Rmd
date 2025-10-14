@@ -25,7 +25,7 @@ output:
 
 ### Welcome to my page!
 
-I am an economist affiliated with the [Economics department](https://www.bse.u-bordeaux.fr/) of the University of Bordeaux in France and the [French Institute of Pondicherry](https://www.ifpindia.org/) in India.
+I am an independent research in economics affiliated with the [Economics department](https://www.bse.u-bordeaux.fr/) of the University of Bordeaux in France and the [French Institute of Pondicherry](https://www.ifpindia.org/) in India.
 
 I obtained my PhD in economics from the University of Bordeaux in December 2023.
 My main field of interest is development economics, and I work on topics related to household indebtedness, labour, and cognition in rural South India.
