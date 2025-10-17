@@ -11,8 +11,6 @@ links:
     url: "https://www.dropbox.com/scl/fo/nrhsbs7egyhipsxexkkxx/h?rlkey=y8gtfg2rbun7z7eiwfvjmbp5q&dl=0"
   - label: Research
     url: "research.html"
-  - label: State of NEEMSIS Research
-    url: "stateofresearch.html"
 site: distill::distill_website
 output:
   postcards::trestles
