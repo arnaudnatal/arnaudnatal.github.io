@@ -7,54 +7,71 @@ output:
     toc_depth: 3
 ---
 
-My research agenda is centred around economic questions related to rural dynamics in developing countries, particularly financial behaviour, labour, cognition, and inequalities in India.
-The methods I use are determined by the research questions that arise but revolve around rigorous statistical analysis (e.g., econometrics, machine learning).
-I attach great importance to the quality of the data used, and in the interests of transparency and respect for ethical principles, all the R and Stata scripts developed to conduct the statistical and econometric analyses of my research work are freely accessible [here](https://github.com/arnaudnatal).
-
 ## Publications in peer-reviewed journals
 
 1. Natal, A., & Nordman, C. J. (2026). A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India. *Journal of Development Studies* (forthcoming).
-1. Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2025). For Money Can’t Buy Me Love? The Political Economy of Marriages at the Time of Financialization. *Contemporary South Asia, 33*(2), 281-300. DOI: [10.1080/09584935.2025.2494605](https://doi.org/10.1080/09584935.2025.2494605). [[WP version available here »](https://dial.ird.fr/)]
-1. Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): A Longitudinal Data Collection Tool. *Population, 80*(1), 79-93. DOI: [10.3917/popu.2501.0083](https://doi.org/10.3917/popu.2501.0083). [Full open access article]
-1. Natal, A., & Nordman, C. J. (2025). Psychology of Debt in Rural South India. *Journal of Development Studies, 61*(7), 1042-1057. DOI: [10.1080/00220388.2025.2451871](https://www.doi.org/10.1080/00220388.2025.2451871). [[WP version available here »](https://www.iza.org/en/publications/dp/17482/psychology-of-debt-in-rural-south-india)]
-1. Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62-71. [[WP version available here »](https://dial.ird.fr/wp-content/uploads/2024/03/2024-02-NEEMSIS_data_context.pdf)]
-1. Natal, A., & Nordman, C. J. (2022). Locus of Control, Social Identity, and Indebtedness in South India. *Revue d’Économie du Développement, 31*(2-3), 95–101. DOI: [10.3917/edd.362.0095](https://www.doi.org/10.3917/edd.362.0095). [[Available here »](https://neemsis.hypotheses.org/files/2024/10/2022-RED-Debt_LOC.pdf)]
-1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49. [[Available here »](https://www.researchgate.net/publication/357617209_Surviving_Debt_and_Survival_Debt_in_Times_of_Lockdown)]
-
+    - Preprint version available on HAL <[hal-05387263](https://hal.science/hal-05387263)>
+1. Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2025). For Money Can’t Buy Me Love? The Political Economy of Marriages at the Time of Financialization. *Contemporary South Asia, 33*(2), 281-300.
+    - Preprint version available on HAL <[hal-05072540](https://hal.science/hal-05072540)>
+1. Nordman, C. J., Venkatasubramanian, G., Guérin, I., Natal, A., Mouchel, C., Michiels, S., & Di Santolo, M. (2025). Networks, Employment, Debt, Mobilities, and Skills in India Survey (NEEMSIS): A Longitudinal Data Collection Tool. *Population, 80*(1), 79-93.
+    - Preprint version available on HAL <[hal-05515015](https://hal.science/hal-05515015)>
+1. Natal, A., & Nordman, C. J. (2025). Psychology of Debt in Rural South India. *Journal of Development Studies, 61*(7), 1042-1057.
+    - Preprint version available on HAL <[hal-04962956](https://hal.science/hal-04962956)>
+1. Di Santolo, M., Guérin, I., Michiels, S., Mouchel, C., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2024). A Decade in Rural Tamil Nadu: Socio-Economic, Labour and Migration Trends from an Original Longitudinal Household Survey. *Economic & Political Weekly, 59*(43), 62-71.
+    - Preprint version available on HAL <[hal-04757717](https://hal.science/hal-04757717)>
+1. Natal, A., & Nordman, C. J. (2022). Locus of Control, Social Identity, and Indebtedness in South India. *Revue d’Économie du Développement, 31*(2-3), 95–101.
+    - Preprint version available on HAL <[hal-04098417](https://hal.science/hal-04098417)>
+1. Guérin, I., Michiels, S., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2022). Surviving Debt and Survival Debt in Times of Lockdown. *Economic & Political Weekly, 57*(1), 41–49.
+    - Preprint version available on HAL <[hal-03509592](https://hal.science/hal-03509592)>
 
 ## Book chapters
 
-1. Natal, A., & Nordman, C. J. (2026). Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South. In R. Dimova (Ed.), *Handbook of behavioural development economics*. Edwar Elgar Publising. (forthcoming)
-1. Natal, A., & Nordman, C. J. (2026). Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South. In R. Dimova (Ed.), *Handbook of behavioural development economics*. Edwar Elgar Publising. (forthcoming)
-1. Natal, A., & Nordman, C. J. (2026). Inégalités et mobilité de revenu dans des villages indiens : Résultats issus d’une micro-enquête longitudinale (2010-2020). In A.Tizziani, I.Georges, R.Chevrillon-Guibert, & R. Hawi (Eds.), *Les Angles Morts des Inégalités: Dialogues disciplinaires, territoriales et thématiques dans les Suds*. IRD Editions. (forthcoming)
+1. Natal, A., & Nordman, C. J. (2026). Inégalités de Revenu, Caste et Mobilité en Inde Rurale : Dix Ans de Transformations au Tamil Nadu. In A.Tizziani, I.Georges, R.Chevrillon-Guibert, & R. Hawi (Eds.), *Les Angles Morts des Inégalités: Dialogues disciplinaires, territoriales et thématiques dans les Suds*. IRD Editions. (forthcoming)
 
 
 ## Submitted
 
-1. *How personality traits and social identity shape interpersonal networks of poor people? A case study in South India*, with D. Girollet.
-1. *Tangled Up in Debt: Household Debt Trap and Its Effect on Spending in Rural India*.
+1. *How Many Indebted Households Worldwide? A Global Estimate of Everyday Household Debt*, with I. Guérin.
+    - WP available on HAL <[hal-05547460](https://hal.science/hal-05547460)>
+1. *How Personality Traits Interact with Social Identity in the Formation of Social Networks? A Case Study in South India*, with D. Girollet.
+    - WP available on HAL <[hal-05547405](https://hal.science/hal-05547405)>
+1. *The Gender of Debt, Agrarian Transition and Social Reproduction*, with I. Guérin.
+1. *Tangled Up in Debt: Household Debt Rollover Strategies and Spending in Rural India*.
+1. *The Invisible Household Debt in the Global South: Evidence from India*.
+1. *Social Proximity and Loan Terms: Evidence from Informal Credit Markets in Rural India*, wth D. Girollet.
+1. *Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South*, with C. J. Nordman.
+1. *Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South*, with C. J. Nordman.
 1. *She Works Hard for the Money: Debt Burden and Labour Supply in India*, with C. J. Nordman.
-1. *Unveiling Inequality in Rural South India: A Decade of Rising Income and Wealth Imbalances*, with C. J. Nordman.
+    - WP available on HAL <[hal-05553769](https://hal.science/hal-05553769)>
+
+
+
 
 ## In progress
 
-1. *Determinants of Household Debt Trap in Thailand and Vietnam*.
-1. *Exploring Rural Transformations in Tamil Nadu: A Review of Studies Based on the Network, Employment, dEbt, Mobility, and Skills Survey*.
-1. *The Ties That Bind: Lender-Borrower Relationships and Indebtedness in Rural South India*, with D. Girollet.
-1. *Multidimensional Poverty and Jatis in India*, with C. J. Nordman.
-1. *The Gender of Debt, Agrarian Transition and Social Reproduction*, with I. Guérin and S. Michiels.
-1. *The Scale of Debt: Estimating Everyday Household Indebtedness Worldwide*, with I. Guérin.
+1. *Intra-household Inequality and Indebtedness: Evidence from Rural South India*, with M. Di Santolo.
+1. *Determinants of Household Debt Rollover in Thailand and Vietnam*.
+1. *The Changing Structure of Rural Credit in South India: The Evolution of Individual Borrowing Practices Over the Last Decade*
+1. *Wealth Accumulation in Rural South India: Changes Between 2010 and 2026*, with C. J. Nordman.
+1. *Multidimensional Poverty and Jatis in India: Evidence from NFHS-4*, with C. J. Nordman.
+
+
 
 ## Policy briefs
 
-1. *On the importance of measuring personality traits in household surveys*, ODRIIS Policy Brief No. 3, with B. Kar, and C. J. Nordman. (2025). [[Available here »](https://hal.science/hal-05032232)]
-1. *Measuring, regulating and preventing household debt to better combat poverty*, ODRIIS Policy Brief No. 2, with S. Michiels, I. Guérin, and T. Narring. (2025). [[Available here »](https://hal.science/hal-05023697)] (accepted by the UNHR for the final report of the “Roadmap for Eradicating Poverty Beyond Growth”)
-1. *Why and how to measure household debt in informal economies?*, ODRIIS Policy Brief No. 1, with I. Guérin, and G. Venkatasubramanian. (2024). [[Available here »](https://hal.science/hal-04622836)]
+1. *The Scale of Debt: Estimating Everyday Household Indebtedness Worldwide*, ODRIIS Policy Brief No. 5, with I. Guérin. <[hal-05500846](https://hal.science/hal-05500846)>
+    - Also available on the [CADTM website](https://www.cadtm.org/The-Scale-of-Debt-Estimating-Everyday-Household-Indebtedness-Worldwide).
+1. *On the importance of measuring personality traits in household surveys*, ODRIIS Policy Brief No. 3, with B. Kar, and C. J. Nordman. (2025). <[hal-05032232](https://hal.science/hal-05032232)>
+1. *Measuring, regulating and preventing household debt to better combat poverty*, ODRIIS Policy Brief No. 2, with S. Michiels, I. Guérin, and T. Narring. (2025). <[05023697](https://hal.science/hal-05023697)> (accepted by the UNHR for the final report of the “Roadmap for Eradicating Poverty Beyond Growth”)
+1. *Why and how to measure household debt in informal economies?*, ODRIIS Policy Brief No. 1, with I. Guérin, and G. Venkatasubramanian. (2024). <[04622836](https://hal.science/hal-04622836)>
 
 
 
 ## Blog post
 
+1. *Are Personality Traits Stable in India? Evidence from Demonetisation and Covid-19*, Ideas for India, with C. J. Nordman. (2026) [[Available here »](https://www.ideasforindia.in/topics/human-development/are-personality-traits-stable-in-india-evidence-from-demonetisation-and-covid-19)]
+1. *Inégalités de revenu et de patrimoine en Inde du Sud: Résultats à partir d'une micro-enquête longitudinale*, Maison des Sciences Humaines de Bordeaux (MSH), with C. J. Nordman. (2025) [[Available here »](https://mshbordeaux.hypotheses.org/14089)]
+1. *Apports et défis des micro-enquêtes longitudinales pour l'étude des inégalités en Inde rurale*, Maison des Sciences Humaines de Bordeaux (MSH), with I. Guérin, C. J. Nordman, and G. Venkatasubramanian. (2024) [[Available here »](https://mshbordeaux.hypotheses.org/9872)]
 1. *The Urgent Need to Better Measure Household Debt*, Committee for the Abolition of Illegitimate Debt (CADTM), with S. Michiels, I. Guérin, and T. Narring. (2025) [[Available here »](https://www.cadtm.org/The-Urgent-Need-to-Better-Measure-Household-Debt)]
 
 
