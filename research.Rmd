@@ -9,7 +9,7 @@ output:
 
 ## Publications in peer-reviewed journals
 
-1. Natal, A., & Nordman, C. J. (2026). A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India. *Journal of Development Studies* (forthcoming).
+1. Natal, A., & Nordman, C. J. (2026). A Change is Gonna Come: Universality, Stability, and Shocks in Personality Traits in Rural India. *Journal of Development Studies, 62*(6), 914-929.
     - Preprint version available on HAL <[hal-05387263](https://hal.science/hal-05387263)>
 1. Guérin, I., Natal, A., Nordman, C. J., & Venkatasubramanian, G. (2025). For Money Can’t Buy Me Love? The Political Economy of Marriages at the Time of Financialization. *Contemporary South Asia, 33*(2), 281-300.
     - Preprint version available on HAL <[hal-05072540](https://hal.science/hal-05072540)>
@@ -31,24 +31,27 @@ output:
 
 ## Submitted
 
+1. *Tangled Up in Debt: Household Debt Rollover and Expenditures in Rural India*.
+    - WP available on HAL <[hal-05612042](https://hal.science/hal-05612042)>
 1. *How Many Indebted Households Worldwide? A Global Estimate of Everyday Household Debt*, with I. Guérin.
     - WP available on HAL <[hal-05547460](https://hal.science/hal-05547460)>
 1. *How Personality Traits Interact with Social Identity in the Formation of Social Networks? A Case Study in South India*, with D. Girollet.
     - WP available on HAL <[hal-05547405](https://hal.science/hal-05547405)>
-1. *The Gender of Debt, Agrarian Transition and Social Reproduction*, with I. Guérin.
-1. *Tangled Up in Debt: Household Debt Rollover Strategies and Spending in Rural India*.
 1. *The Invisible Household Debt in the Global South: Evidence from India*.
-1. *Social Proximity and Loan Terms: Evidence from Informal Credit Markets in Rural India*, wth D. Girollet.
-1. *Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South*, with C. J. Nordman.
-1. *Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South*, with C. J. Nordman.
+    - WP available on HAL <[hal-05617256](https://hal.science/hal-05617256)>
 1. *She Works Hard for the Money: Debt Burden and Labour Supply in India*, with C. J. Nordman.
     - WP available on HAL <[hal-05553769](https://hal.science/hal-05553769)>
-
+1. *Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South*, with C. J. Nordman.
+    - WP available on HAL <[hal-05574564](https://hal.science/hal-05574564)>
+1. *Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South*, with C. J. Nordman.
+    - WP available on HAL <[hal-05575021](https://hal.science/hal-05575021)>
+1. *Social Proximity and Loan Terms: Evidence from Informal Credit Markets in Rural India*, wth D. Girollet.
 
 
 
 ## In progress
 
+1. *The Gender of Debt, Agrarian Transition and Social Reproduction*, with I. Guérin.
 1. *Intra-household Inequality and Indebtedness: Evidence from Rural South India*, with M. Di Santolo.
 1. *Determinants of Household Debt Rollover in Thailand and Vietnam*.
 1. *The Changing Structure of Rural Credit in South India: The Evolution of Individual Borrowing Practices Over the Last Decade*
