@@ -65,8 +65,8 @@ output:
 1. *The Scale of Debt: Estimating Everyday Household Indebtedness Worldwide*, ODRIIS Policy Brief No. 5, with I. Guérin. <[hal-05500846](https://hal.science/hal-05500846)>
     - Also available on the [CADTM website](https://www.cadtm.org/The-Scale-of-Debt-Estimating-Everyday-Household-Indebtedness-Worldwide).
 1. *On the importance of measuring personality traits in household surveys*, ODRIIS Policy Brief No. 3, with B. Kar, and C. J. Nordman. (2025). <[hal-05032232](https://hal.science/hal-05032232)>
-1. *Measuring, regulating and preventing household debt to better combat poverty*, ODRIIS Policy Brief No. 2, with S. Michiels, I. Guérin, and T. Narring. (2025). <[05023697](https://hal.science/hal-05023697)> (accepted by the UNHR for the final report of the “Roadmap for Eradicating Poverty Beyond Growth”)
-1. *Why and how to measure household debt in informal economies?*, ODRIIS Policy Brief No. 1, with I. Guérin, and G. Venkatasubramanian. (2024). <[04622836](https://hal.science/hal-04622836)>
+1. *Measuring, regulating and preventing household debt to better combat poverty*, ODRIIS Policy Brief No. 2, with S. Michiels, I. Guérin, and T. Narring. (2025). <[hal-05023697](https://hal.science/hal-05023697)> (accepted by the UNHR for the final report of the “Roadmap for Eradicating Poverty Beyond Growth”)
+1. *Why and how to measure household debt in informal economies?*, ODRIIS Policy Brief No. 1, with I. Guérin, and G. Venkatasubramanian. (2024). <[hal-04622836](https://hal.science/hal-04622836)>
 
 
 
