@@ -26,7 +26,11 @@ output:
 
 ## Book chapters
 
-1. Natal, A., & Nordman, C. J. (2026). Inégalités de Revenu, Caste et Mobilité en Inde Rurale : Dix Ans de Transformations au Tamil Nadu. In A.Tizziani, I.Georges, R.Chevrillon-Guibert, & R. Hawi (Eds.), *Les Angles Morts des Inégalités: Dialogues disciplinaires, territoriales et thématiques dans les Suds*. IRD Editions. (forthcoming)
+1. Natal, A., & Nordman, C. J. (2026). Inégalités de Revenu, Caste et Mobilité en Inde Rurale : Dix Ans de Transformations au Tamil Nadu. In A. Tizziani, I. Georges, R. Chevrillon-Guibert, & R. Hawi (Eds.), *Les Angles Morts des Inégalités: Dialogues disciplinaires, territoriales et thématiques dans les Suds*. IRD Editions. (forthcoming)
+1. Natal, A., & Nordman, C. J. (2026). Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South. In R. Dimova (Ed.), *Handbook on Behavioural Field Experiment*. Edward Elgar Publishing. (forthcoming)
+    - WP available on HAL <[hal-05574564](https://hal.science/hal-05574564)>
+1. Natal, A., & Nordman, C. J. (2026). Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South. In R. Dimova (Ed.), *Handbook on Behavioural Field Experiment*. Edward Elgar Publishing. (forthcoming)
+    - WP available on HAL <[hal-05575021](https://hal.science/hal-05575021)>
 
 
 ## Submitted
@@ -41,10 +45,6 @@ output:
     - WP available on HAL <[hal-05617256](https://hal.science/hal-05617256)>
 1. *She Works Hard for the Money: Debt Burden and Labour Supply in India*, with C. J. Nordman.
     - WP available on HAL <[hal-05553769](https://hal.science/hal-05553769)>
-1. *Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South*, with C. J. Nordman.
-    - WP available on HAL <[hal-05574564](https://hal.science/hal-05574564)>
-1. *Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South*, with C. J. Nordman.
-    - WP available on HAL <[hal-05575021](https://hal.science/hal-05575021)>
 1. *Social Proximity and Loan Terms: Evidence from Informal Credit Markets in Rural India*, wth D. Girollet.
 
 
@@ -54,9 +54,9 @@ output:
 1. *The Gender of Debt, Agrarian Transition and Social Reproduction*, with I. Guérin.
 1. *Intra-household Inequality and Indebtedness: Evidence from Rural South India*, with M. Di Santolo.
 1. *Determinants of Household Debt Rollover in Thailand and Vietnam*.
-1. *The Changing Structure of Rural Credit in South India: The Evolution of Individual Borrowing Practices Over the Last Decade*
+1. *The Changing Structure of Credit in India*
 1. *Wealth Accumulation in Rural South India: Changes Between 2010 and 2026*, with C. J. Nordman.
-1. *Multidimensional Poverty and Jatis in India: Evidence from NFHS-4*, with C. J. Nordman.
+1. *From Castes to Jatis: Rethinking Multidimensional Poverty in India*, with C. J. Nordman.
 
 
 
