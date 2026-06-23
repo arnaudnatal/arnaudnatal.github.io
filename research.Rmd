@@ -27,6 +27,7 @@ output:
 ## Book chapters
 
 1. Natal, A., & Nordman, C. J. (2026). Inégalités de Revenu, Caste et Mobilité en Inde Rurale : Dix Ans de Transformations au Tamil Nadu. In A. Tizziani, I. Georges, R. Chevrillon-Guibert, & R. Hawi (Eds.), *Les Angles Morts des Inégalités: Dialogues disciplinaires, territoriales et thématiques dans les Suds*. IRD Editions. (forthcoming)
+    - WP available on HAL <[hal-05657545](https://hal.science/hal-05657545)>
 1. Natal, A., & Nordman, C. J. (2026). Big Five Personality Traits and Locus of Control: Challenges and Uses in the Global South. In R. Dimova (Ed.), *Handbook on Behavioural Field Experiment*. Edward Elgar Publishing. (forthcoming)
     - WP available on HAL <[hal-05574564](https://hal.science/hal-05574564)>
 1. Natal, A., & Nordman, C. J. (2026). Insights and Challenges of Integrated Small-scale Longitudinal Household Surveys in Rural Areas of the Global South. In R. Dimova (Ed.), *Handbook on Behavioural Field Experiment*. Edward Elgar Publishing. (forthcoming)
@@ -72,6 +73,7 @@ output:
 
 ## Blog post
 
+1. *Un tiers de l'humanité doit s'endetter pour vivre*, The Conversation, with I. Guérin. (2026) [[Available here »](https://doi.org/10.64628/AAK.wqnht5wkv)]
 1. *Are Personality Traits Stable in India? Evidence from Demonetisation and Covid-19*, Ideas for India, with C. J. Nordman. (2026) [[Available here »](https://www.ideasforindia.in/topics/human-development/are-personality-traits-stable-in-india-evidence-from-demonetisation-and-covid-19)]
 1. *Inégalités de revenu et de patrimoine en Inde du Sud: Résultats à partir d'une micro-enquête longitudinale*, Maison des Sciences Humaines de Bordeaux (MSH), with C. J. Nordman. (2025) [[Available here »](https://mshbordeaux.hypotheses.org/14089)]
 1. *Apports et défis des micro-enquêtes longitudinales pour l'étude des inégalités en Inde rurale*, Maison des Sciences Humaines de Bordeaux (MSH), with I. Guérin, C. J. Nordman, and G. Venkatasubramanian. (2024) [[Available here »](https://mshbordeaux.hypotheses.org/9872)]
